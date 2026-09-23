@@ -1,0 +1,62 @@
+name: Daily Quote Generator
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      preview_date:
+        description: '비우면 한국의 오늘 날짜 / 미리보기는 YYYY-MM-DD'
+        type: string
+        required: false
+        default: ''
+  # 수동 배포 성공 후 아래 두 줄의 #을 지워 예약을 켭니다.
+  # schedule:
+  #   - cron: '17 23 * * *'  # UTC 23:17 = 다음 날 한국시간 08:17, 매일
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+      - name: Generate daily page
+        env:
+          PREVIEW_DATE: ${{ inputs.preview_date || '' }}
+        run: |
+          if [ -n "$PREVIEW_DATE" ]; then
+            python main.py --output _site/index.html --date "$PREVIEW_DATE"
+          else
+            python main.py --output _site/index.html
+          fi
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

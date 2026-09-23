@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="날짜에 따라 골라 보는 학습과 협업의 한 문장">
+  <title>오늘의 한 문장</title>
+  <style>
+    * { box-sizing: border-box; }
+    :root { color-scheme: dark; --accent: #a5b4fc; }
+    body { margin: 0; min-height: 100vh; padding: 42px 22px 30px;
+      font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+      background: linear-gradient(135deg, #0f0c29, #302b63, #182235); color: #f1f5f9;
+      display: flex; align-items: center; justify-content: center; }
+    body::before { content: ""; position: fixed; inset: 0; pointer-events: none;
+      background: radial-gradient(circle at 85% 10%, #ffffff08, transparent 40%); }
+    .container { width: 100%; max-width: 760px; text-align: center; position: relative; }
+    .eyebrow { font-size: 11px; letter-spacing: 3px; color: var(--accent); margin: 0 0 12px; }
+    h1 { font-size: 28px; font-weight: 650; margin: 0 0 23px; letter-spacing: -1px; }
+    .date-badge { display: inline-flex; gap: 13px; align-items: center; flex-wrap: wrap; justify-content: center;
+      padding: 9px 20px; border: 1px solid #ffffff26; border-radius: 30px; color: #cbd5e1;
+      background: #ffffff08; font-size: 13px; margin-bottom: 26px; }
+    .mode { color: var(--accent); font-size: 12px; }
+    .preview-note { margin: -10px 0 22px; color: #d8b4fe; font-size: 13px; }
+    .quote-card { background: #ffffff07; border: 1px solid #ffffff1c; border-radius: 24px;
+      padding: 39px 46px 34px; margin-bottom: 20px; box-shadow: 0 18px 45px #00000018; }
+    .quote-mark { display: block; font-family: Georgia, serif; font-size: 74px; line-height: .8;
+      color: var(--accent); opacity: .6; margin-bottom: 10px; }
+    .quote-text { font-family: "AppleMyungjo", "Batang", Georgia, serif; font-size: 29px;
+      font-weight: 600; line-height: 1.75; margin: 0 auto 26px; word-break: keep-all; overflow-wrap: anywhere; }
+    .divider { background: var(--accent); opacity: .5; width: 50px; height: 2px; margin: 0 auto 20px; }
+    .author { font-size: 14px; color: var(--accent); margin: 0 0 7px; overflow-wrap: anywhere; }
+    .topic { font-size: 12px; color: #a8b4c8; margin: 0; overflow-wrap: anywhere; }
+    .yesterday { background: #ffffff04; border: 1px solid #ffffff12; border-radius: 16px;
+      padding: 22px 30px; margin-bottom: 23px; }
+    .yesterday-label { font-size: 11px; color: #a8b4c8; margin: 0 0 11px; }
+    .yesterday-quote { font-family: "AppleMyungjo", "Batang", Georgia, serif; font-size: 16px;
+      color: #cbd5e1; line-height: 1.7; margin: 0; word-break: keep-all; overflow-wrap: anywhere; }
+    .yesterday-author { font-size: 11px; color: #a8b4c8; margin: 10px 0 0; overflow-wrap: anywhere; }
+    footer { font-size: 11px; line-height: 1.9; color: #a8b4c8; }
+    footer p { margin: 3px 0; }
+    .generated { color: #d3dbea; }
+    @media (max-width: 600px) {
+      body { padding: 30px 17px 24px; } h1 { font-size: 25px; }
+      .quote-card { padding: 32px 23px 28px; } .quote-text { font-size: 23px; }
+      .yesterday { padding: 20px; } .yesterday-quote { font-size: 15px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <p class="eyebrow">TODAY IN ONE SENTENCE</p>
+    <h1>오늘의 한 문장</h1>
+    <div class="date-badge"><time id="selected-date" datetime="2026-09-22">2026-09-22</time><span class="mode">한국 날짜 기준</span></div>
+    
+    <section class="quote-card" aria-label="선택한 날짜의 문구">
+      <span class="quote-mark" aria-hidden="true">“</span>
+      <p class="quote-text" id="today-quote">자동화한 일을 다시 확인하는 습관도 함께 만들자.</p>
+      <div class="divider" aria-hidden="true"></div>
+      <p class="author">— 수업 예제</p>
+      <p class="topic">자동화</p>
+    </section>
+    <section class="yesterday" aria-label="전날의 문구">
+      <p class="yesterday-label">어제의 한 문장 · 2026-09-21</p>
+      <p class="yesterday-quote" id="yesterday-quote">좋은 질문은 지금 아는 것과 아직 모르는 것을 나눈다.</p>
+      <p class="yesterday-author">— 수업 예제</p>
+    </section>
+    <footer>
+      <p class="generated">마지막 생성 <time id="generated-at" datetime="2026-09-22T17:22:35+09:00">2026.09.22 17:22:35 KST</time></p>
+      <p id="build-info">로컬 생성본</p>
+      <p>하루 한 문장, 배움과 협업을 위한 수업 예제</p>
+    </footer>
+  </main>
+</body>
+</html>
