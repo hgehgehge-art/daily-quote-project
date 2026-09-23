@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-23",
-  "fetched_at": "2026-09-23T17:17:17+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/09/23",
+  "date": "2026-09-24",
+  "fetched_at": "2026-09-24T03:56:11+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/09/24",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
   "mostread_date": "2026-09-22",
   "mostread": [
@@ -77,12 +77,12 @@
     }
   ],
   "image": {
-    "title": "File:Zabytkowa cerkiew wpisana na listę UNESCO.jpg",
-    "description": "Paraskevi of Iconium church in Kwiatoń, Southern Poland.",
-    "artist": "Piter329c",
-    "license": "CC BY 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg/960px-Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Violet-backed starling (Cinnyricinclus leucogaster verreauxi) female.jpg",
+    "description": "",
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Violet-backed_starling_(Cinnyricinclus_leucogaster_verreauxi)_female.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Violet-backed_starling_%28Cinnyricinclus_leucogaster_verreauxi%29_female.jpg/960px-Violet-backed_starling_%28Cinnyricinclus_leucogaster_verreauxi%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "9월 16일, 코소보의 전직 지도자 하심 사치 (사진)가 자신의 리더십 아래 코소보 해방군의 전쟁 범죄로 징역 25년을 선고받았다.",
