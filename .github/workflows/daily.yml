@@ -1,0 +1,39 @@
+name: Daily Wikipedia Data
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # UTC 15:00 = 다음 날 한국시간 00:00, 매일
+  workflow_dispatch:
+
+# today.json을 저장소에 커밋하므로 쓰기 권한이 필요합니다.
+permissions:
+  contents: write
+
+concurrency:
+  group: wiki-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+      - name: Fetch Wikipedia data
+        run: python fetch_wiki.py --output today.json
+      - name: Commit today.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add today.json
+          if git diff --cached --quiet; then
+            echo "변경 없음: 커밋하지 않습니다."
+          else
+            git commit -m "Update today.json ($(TZ=Asia/Seoul date +%F))"
+            git push
+          fi

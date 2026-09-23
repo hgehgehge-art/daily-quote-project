@@ -19,6 +19,8 @@ main에 저장 / 버튼으로 실행 / 예약 시각 도달
 | `index.html` | 복사 직후 열어 볼 수 있는 생성된 웹 저장본 |
 | `.github/workflows/daily_quote.yml` | 실행 조건, Python 실행, Pages 배포 |
 | `문구이용안내.md` | 제공 문구의 복제·수정·공개·배포 안내 |
+| `fetch_wiki.py` | 한국어 위키백과 날짜별 피드에서 필요한 항목만 골라 `today.json` 생성 |
+| `.github/workflows/daily.yml` | 매일 한국 자정에 `fetch_wiki.py` 실행 후 `today.json` 커밋 |
 
 생성 결과는 정적 HTML입니다. 웹페이지를 새로고침해도 Python은 실행되지 않습니다. **Actions가 다시 생성하고 배포해야** 공개 웹의 문구와 생성 시각이 갱신됩니다. Actions가 끝나면 실행용 컴퓨터도 작업을 마칩니다.
 
@@ -109,6 +111,16 @@ python3 main.py --date 2026-09-23 --output preview.html
 예약은 기본 브랜치의 워크플로를 사용합니다. 이 실습에서는 기본 브랜치를 `main`으로 둡니다. 예약 시각은 UTC 기준이며, 생성할 문구의 날짜는 코드에서 한국시간으로 계산합니다.
 
 예약 시각은 정확한 실행 시작을 보장하지 않으며 지연될 수 있습니다. 공개 저장소에서 장기간 활동이 없으면 예약이 비활성화될 수 있습니다. **수업에서는 예약 설정을 확인하고, 다음 날에는 Event가 `schedule`인 실행 기록과 공개 웹의 생성 시각을 확인**하세요. 수동 실행 성공은 예약 실행 성공의 증거가 아닙니다. [GitHub 예약 실행 안내](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
+
+## 5-1. 위키백과 데이터 저장하기 — 추가 예제
+
+`daily.yml`은 매일 한국시간 00:00(`0 15 * * *`, UTC)에 [Wikimedia 피드 API](https://api.wikimedia.org/wiki/Feed_API)에서 한국어 위키백과의 **많이 본 문서 10개·오늘의 사진·뉴스**를 받아 `today.json`으로 저장하고 `main`에 커밋합니다. API 키는 필요 없습니다.
+
+- 한국 자정에는 UTC 하루가 아직 끝나지 않아 당일 조회수 집계가 없습니다. 이때는 전날 피드의 집계를 쓰고 그 날짜를 `mostread_date`에 적습니다.
+- 커밋하려면 `contents: write` 권한이 필요합니다. 이 커밋은 `GITHUB_TOKEN`으로 올라가므로 `Daily Quote Generator`의 `push` 실행을 일으키지 않습니다.
+- 매일 봇 커밋이 생기므로 로컬에서 수정하기 전에 `git pull`을 먼저 실행하세요.
+- 위키백과 텍스트는 CC BY-SA 4.0, 사진은 `image.license`의 조건을 따릅니다. 화면에 쓸 때는 출처를 함께 표시하세요.
+- 정각 예약은 GitHub 부하로 지연이 더 클 수 있습니다. **Actions → Daily Wikipedia Data → Run workflow**로 수동 실행해 먼저 확인할 수 있습니다.
 
 ## 6. 문구 바꾸기와 팀 활동
 
