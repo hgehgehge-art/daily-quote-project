@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-23",
+  "fetched_at": "2026-09-23T17:17:17+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/09/23",
+  "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
+  "mostread_date": "2026-09-22",
+  "mostread": [
+    {
+      "rank": 1,
+      "title": "문화방송",
+      "description": "대한민국의 지상파 방송사",
+      "views": 13862,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+    },
+    {
+      "rank": 2,
+      "title": "조희대",
+      "description": "대한민국 제17대 대법원장",
+      "views": 10302,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%ED%9D%AC%EB%8C%80"
+    },
+    {
+      "rank": 3,
+      "title": "한국방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 9536,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 4,
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 4933,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 5,
+      "title": "연합뉴스",
+      "description": "대한민국의 국가 기간 뉴스 통신사",
+      "views": 2885,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4"
+    },
+    {
+      "rank": 6,
+      "title": "제25보병사단 (대한민국)",
+      "description": "대한민국 육군의 사단",
+      "views": 2618,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C25%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8_(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)"
+    },
+    {
+      "rank": 7,
+      "title": "강신철 (군인)",
+      "description": "대한민국의 군인",
+      "views": 2180,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%8B%A0%EC%B2%A0_(%EA%B5%B0%EC%9D%B8)"
+    },
+    {
+      "rank": 8,
+      "title": "김현지 (공무원)",
+      "description": "대한민국의 공무원",
+      "views": 1953,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%84%EC%A7%80_(%EA%B3%B5%EB%AC%B4%EC%9B%90)"
+    },
+    {
+      "rank": 9,
+      "title": "강훈식",
+      "description": "대한민국의 정치인 (1973년~)",
+      "views": 1847,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%9B%88%EC%8B%9D"
+    },
+    {
+      "rank": 10,
+      "title": "정을영",
+      "description": "",
+      "views": 1803,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%84%EC%98%81"
+    }
+  ],
+  "image": {
+    "title": "File:Zabytkowa cerkiew wpisana na listę UNESCO.jpg",
+    "description": "Paraskevi of Iconium church in Kwiatoń, Southern Poland.",
+    "artist": "Piter329c",
+    "license": "CC BY 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg/960px-Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "news": [
+    "9월 16일, 코소보의 전직 지도자 하심 사치 (사진)가 자신의 리더십 아래 코소보 해방군의 전쟁 범죄로 징역 25년을 선고받았다.",
+    "9월 3일, 후티가 대통령 지도부 위원회에 맞서 공세를 개시하다.",
+    "8월 28일, 호콘 8세가 노르웨이의 새 국왕으로 즉위하였다.",
+    "8월 26일, 네팔-티베트 접경지대에서 발생한 돌발홍수로 최소 380명이 실종되었다.",
+    "8월 23일, 카자흐스탄 제1대 쿠릴타이 선거에 이어 새롭게 설립된 쿠릴타이에 의하여 올자스 벡테노프가 총리로서 재임명되었다."
+  ]
+}
