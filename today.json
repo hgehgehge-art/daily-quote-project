@@ -1,88 +1,88 @@
 {
-  "date": "2026-09-27",
-  "fetched_at": "2026-09-27T03:27:10+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/09/27",
+  "date": "2026-09-28",
+  "fetched_at": "2026-09-28T03:56:42+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/09/28",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-09-25",
+  "mostread_date": "2026-09-26",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 15959,
+      "views": 15196,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
-      "title": "장쯔위",
-      "description": "중화인민공화국의 농구선수",
-      "views": 13482,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%AF%94%EC%9C%84"
-    },
-    {
-      "rank": 3,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 7848,
+      "views": 8242,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
+      "rank": 3,
+      "title": "금성대군",
+      "description": "",
+      "views": 7040,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%84%B1%EB%8C%80%EA%B5%B0"
+    },
+    {
       "rank": 4,
-      "title": "비웨사 다니엘 가사마",
-      "description": "대한민국의 남자 육상 선수",
-      "views": 7347,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%9B%A8%EC%82%AC_%EB%8B%A4%EB%8B%88%EC%97%98_%EA%B0%80%EC%82%AC%EB%A7%88"
-    },
-    {
-      "rank": 5,
-      "title": "로베르트 모레노",
-      "description": "스페인의 축구 지도자",
-      "views": 7136,
-      "url": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%B2%A0%EB%A5%B4%ED%8A%B8_%EB%AA%A8%EB%A0%88%EB%85%B8"
-    },
-    {
-      "rank": 6,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 5883,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 7,
-      "title": "나마디 조엘 진",
-      "description": "대한민국의 남자 육상 선수",
-      "views": 5609,
-      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EB%A7%88%EB%94%94_%EC%A1%B0%EC%97%98_%EC%A7%84"
-    },
-    {
-      "rank": 8,
       "title": "육영수 저격 사건",
       "description": "",
-      "views": 5554,
+      "views": 6846,
       "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
     },
     {
+      "rank": 5,
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 6147,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 6,
+      "title": "단종 (조선)",
+      "description": "조선의 제6대 임금 (1441–1457)",
+      "views": 5971,
+      "url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%A2%85_(%EC%A1%B0%EC%84%A0)"
+    },
+    {
+      "rank": 7,
+      "title": "엄흥도",
+      "description": "조선의 문신 (1404–1474)",
+      "views": 5551,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%84%ED%9D%A5%EB%8F%84"
+    },
+    {
+      "rank": 8,
+      "title": "2026년 아시안 게임 메달 집계",
+      "description": "2026년 아시안 게임의 각 평의회 별 메달 집계",
+      "views": 4172,
+      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%88_%EA%B2%8C%EC%9E%84_%EB%A9%94%EB%8B%AC_%EC%A7%91%EA%B3%84"
+    },
+    {
       "rank": 9,
-      "title": "이승철",
-      "description": "대한민국의 음악가, 가수",
-      "views": 3248,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%B9%EC%B2%A0"
+      "title": "한명회",
+      "description": "조선의 문신 (1415–1487)",
+      "views": 4095,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%AA%85%ED%9A%8C"
     },
     {
       "rank": 10,
-      "title": "2026년 아시안 게임 메달 집계",
-      "description": "2026년 아시안 게임의 각 평의회 별 메달 집계",
-      "views": 2902,
-      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%88_%EA%B2%8C%EC%9E%84_%EB%A9%94%EB%8B%AC_%EC%A7%91%EA%B3%84"
+      "title": "진안 (농구 선수)",
+      "description": "대한민국의 여자 농구 선수",
+      "views": 3286,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%95%88_(%EB%86%8D%EA%B5%AC_%EC%84%A0%EC%88%98)"
     }
   ],
   "image": {
-    "title": "File:Gladiolus dalenii flower Ooty Jul25 A7CR 06187-224 zsp.jpg",
-    "description": "Gladiolus dalenii (parrot gladiolus) flower in the rain. About 4–5 cm (1.6–2.0 in) across. Garden plant in Ooty, The Nilgiris, south India. Focus-stack of 38 images.",
-    "artist": "Timothy A. Gonsalves",
+    "title": "File:Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 58-60 HDR.jpg",
+    "description": "View of the Basilica Cistern, Istanbul, Turkey. The Basilica Cistern, or Cisterna Basilica is the largest of several hundred ancient cisterns that lie beneath the city. This subterranean cistern was called Basilica because it was located under a large public square, the Stoa Basilica, on the First Hill of Constantinople. The cistern, built in the 6th century during the reign of Byzantine emperor Justinian I, provided a water filtration system for the Great Palace of Constantinople and other buildings on the First Hill, and continued to provide water to the Topkapı Palace after the Ottoman conquest in 1453 and into modern times. Today it is kept with little water, for public access inside the space.",
+    "artist": "Diego Delso",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Gladiolus_dalenii_flower_Ooty_Jul25_A7CR_06187-224_zsp.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Gladiolus_dalenii_flower_Ooty_Jul25_A7CR_06187-224_zsp.jpg/960px-Gladiolus_dalenii_flower_Ooty_Jul25_A7CR_06187-224_zsp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_58-60_HDR.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg/960px-Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "9월 19일, 일본 나고야시에서 2026년 아시안 게임이 개막했다.",
