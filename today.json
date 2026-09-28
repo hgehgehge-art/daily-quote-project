@@ -1,88 +1,88 @@
 {
-  "date": "2026-09-28",
-  "fetched_at": "2026-09-28T03:56:42+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/09/28",
+  "date": "2026-09-29",
+  "fetched_at": "2026-09-29T06:09:23+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/09/29",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-09-26",
+  "mostread_date": "2026-09-27",
   "mostread": [
     {
       "rank": 1,
-      "title": "문화방송",
-      "description": "대한민국의 지상파 방송사",
-      "views": 15196,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+      "title": "핸드볼",
+      "description": "스포츠 종목",
+      "views": 15208,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%B8%EB%93%9C%EB%B3%BC"
     },
     {
       "rank": 2,
-      "title": "한국방송공사",
+      "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 8242,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "views": 15099,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 3,
-      "title": "금성대군",
-      "description": "",
-      "views": 7040,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%84%B1%EB%8C%80%EA%B5%B0"
+      "title": "한국방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 8194,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
-      "title": "육영수 저격 사건",
-      "description": "",
-      "views": 6846,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
+      "title": "우상혁",
+      "description": "대한민국의 남자 육상 선수",
+      "views": 7652,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%83%81%ED%98%81"
     },
     {
       "rank": 5,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 6147,
+      "views": 7037,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 6,
-      "title": "단종 (조선)",
-      "description": "조선의 제6대 임금 (1441–1457)",
-      "views": 5971,
-      "url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%A2%85_(%EC%A1%B0%EC%84%A0)"
-    },
-    {
-      "rank": 7,
-      "title": "엄흥도",
-      "description": "조선의 문신 (1404–1474)",
-      "views": 5551,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%84%ED%9D%A5%EB%8F%84"
-    },
-    {
-      "rank": 8,
       "title": "2026년 아시안 게임 메달 집계",
       "description": "2026년 아시안 게임의 각 평의회 별 메달 집계",
-      "views": 4172,
+      "views": 6650,
       "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%88_%EA%B2%8C%EC%9E%84_%EB%A9%94%EB%8B%AC_%EC%A7%91%EA%B3%84"
     },
     {
+      "rank": 7,
+      "title": "오유경 (아나운서)",
+      "description": "대한민국의 방송인",
+      "views": 6243,
+      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%9C%A0%EA%B2%BD_(%EC%95%84%EB%82%98%EC%9A%B4%EC%84%9C)"
+    },
+    {
+      "rank": 8,
+      "title": "육영수 저격 사건",
+      "description": "",
+      "views": 5161,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
+    },
+    {
       "rank": 9,
-      "title": "한명회",
-      "description": "조선의 문신 (1415–1487)",
-      "views": 4095,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%AA%85%ED%9A%8C"
+      "title": "곽빈",
+      "description": "",
+      "views": 4872,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B3%BD%EB%B9%88"
     },
     {
       "rank": 10,
-      "title": "진안 (농구 선수)",
-      "description": "대한민국의 여자 농구 선수",
-      "views": 3286,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%95%88_(%EB%86%8D%EA%B5%AC_%EC%84%A0%EC%88%98)"
+      "title": "집으로 가는 길 (1999년 영화)",
+      "description": "",
+      "views": 3277,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%91%EC%9C%BC%EB%A1%9C_%EA%B0%80%EB%8A%94_%EA%B8%B8_(1999%EB%85%84_%EC%98%81%ED%99%94)"
     }
   ],
   "image": {
-    "title": "File:Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 58-60 HDR.jpg",
-    "description": "View of the Basilica Cistern, Istanbul, Turkey. The Basilica Cistern, or Cisterna Basilica is the largest of several hundred ancient cisterns that lie beneath the city. This subterranean cistern was called Basilica because it was located under a large public square, the Stoa Basilica, on the First Hill of Constantinople. The cistern, built in the 6th century during the reign of Byzantine emperor Justinian I, provided a water filtration system for the Great Palace of Constantinople and other buildings on the First Hill, and continued to provide water to the Topkapı Palace after the Ottoman conquest in 1453 and into modern times. Today it is kept with little water, for public access inside the space.",
-    "artist": "Diego Delso",
+    "title": "File:Ceiling Painted Dome Cupola Angels Fighting Demons in Vatican Museums.png",
+    "description": "Ceiling Painted Dome Cupola Angels Fighting Demons in the Vatican Museums. Today is Michaelmas in much of Western Christianity.",
+    "artist": "Livioandronico2013",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_58-60_HDR.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg/960px-Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png/960px-Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "9월 19일, 일본 나고야시에서 2026년 아시안 게임이 개막했다.",
