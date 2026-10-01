@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-01",
-  "fetched_at": "2026-10-01T04:54:07+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/01",
+  "date": "2026-10-02",
+  "fetched_at": "2026-10-02T05:14:41+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/02",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-09-29",
+  "mostread_date": "2026-09-30",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 12424,
+      "views": 12944,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 8224,
+      "views": 8923,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 5307,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "title": "이홍구 (1934년)",
+      "description": "대한민국의 정치인 (1934–2026)",
+      "views": 5493,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%99%8D%EA%B5%AC_(1934%EB%85%84)"
     },
     {
       "rank": 4,
-      "title": "장미란",
-      "description": "대한민국의 여자 역도인, 정치인",
-      "views": 5212,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EB%AF%B8%EB%9E%80"
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 5338,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 5,
       "title": "육영수 저격 사건",
       "description": "",
-      "views": 5157,
+      "views": 4501,
       "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
     },
     {
       "rank": 6,
-      "title": "안세영",
-      "description": "대한민국의 여자 배드민턴 선수",
-      "views": 4401,
-      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%84%B8%EC%98%81"
+      "title": "허진호",
+      "description": "대한민국의 영화 감독, 영화 각본가",
+      "views": 2086,
+      "url": "https://ko.wikipedia.org/wiki/%ED%97%88%EC%A7%84%ED%98%B8"
     },
     {
       "rank": 7,
       "title": "2026년 아시안 게임 메달 집계",
       "description": "2026년 아시안 게임의 각 평의회 별 메달 집계",
-      "views": 3472,
+      "views": 1966,
       "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%88_%EA%B2%8C%EC%9E%84_%EB%A9%94%EB%8B%AC_%EC%A7%91%EA%B3%84"
     },
     {
       "rank": 8,
-      "title": "허진호",
-      "description": "대한민국의 영화 감독, 영화 각본가",
-      "views": 2753,
-      "url": "https://ko.wikipedia.org/wiki/%ED%97%88%EC%A7%84%ED%98%B8"
+      "title": "한기호 (1952년)",
+      "description": "대한민국의 군인 출신 정치가",
+      "views": 1899,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B8%B0%ED%98%B8_(1952%EB%85%84)"
     },
     {
       "rank": 9,
-      "title": "노재원 (배우)",
-      "description": "대한민국의 배우",
-      "views": 2547,
-      "url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9E%AC%EC%9B%90_(%EB%B0%B0%EC%9A%B0)"
+      "title": "박정희",
+      "description": "대한민국의 제5–9대 대통령 (1917–1979)",
+      "views": 1779,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A0%95%ED%9D%AC"
     },
     {
       "rank": 10,
-      "title": "박혜정 (역도 선수)",
-      "description": "대한민국의 여자 역도 선수",
-      "views": 2356,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%ED%98%9C%EC%A0%95_(%EC%97%AD%EB%8F%84_%EC%84%A0%EC%88%98)"
+      "title": "지셀르 리본느",
+      "description": "",
+      "views": 1467,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EC%85%80%EB%A5%B4_%EB%A6%AC%EB%B3%B8%EB%8A%90"
     }
   ],
   "image": {
-    "title": "File:Catedral de la Encarnación, Málaga, España, 2023-05-19, DD 37-39 HDR.jpg",
-    "description": "Choir of the Málaga Cathedral, Andalusia, Spain. The Roman Catholic church was built in the Renaissance architectural tradition between 1528 and 1782 following the plans drawn by Diego de Siloe. The temple is considered one of the Renaissance jewels in all Andalusia.",
-    "artist": "Diego Delso",
-    "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Catedral_de_la_Encarnaci%C3%B3n,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-19,_DD_37-39_HDR.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg/960px-Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Gene Autry, NPG 94 39.jpg",
+    "description": "Gene Autry in 1942. Autry died on this date in 1998.",
+    "artist": "Harry Warnecke / Robert F. Cranston",
+    "license": "Public domain",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gene_Autry,_NPG_94_39.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gene_Autry%2C_NPG_94_39.jpg/960px-Gene_Autry%2C_NPG_94_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
-    "9월 19일, 일본 나고야시에서 2026년 아시안 게임이 개막했다.",
-    "9월 16일, 코소보의 전 지도자 하심 사치 (사진)가 자신의 지휘 아래 있던 코소보 해방군의 전쟁 범죄로 징역 25년을 선고받았다.",
+    "9월 30일, 플라이두바이 1073편 여객기(사진)가 사우디아라비아 상공을 비행하던 중, 승무원들과 승객들의 용기 있는 대처로 납치 및 고의 추락 시도를 막아냈다.",
+    "9월 30일, 일본 나고야시에서 2026년 아시안 게임이 개막했다.",
+    "9월 16일, 코소보의 전 지도자 하심 사치가 자신의 지휘 아래 있던 코소보 해방군의 전쟁 범죄로 징역 25년을 선고받았다.",
     "9월 3일, 후티가 대통령 지도부 위원회에 맞서 공세를 개시하다.",
-    "8월 28일, 호콘 8세가 노르웨이의 새 국왕으로 즉위하였다.",
-    "8월 26일, 네팔-티베트 접경지대에서 발생한 돌발홍수로 최소 380명이 실종되었다."
+    "8월 28일, 호콘 8세가 노르웨이의 새 국왕으로 즉위하였다."
   ]
 }
