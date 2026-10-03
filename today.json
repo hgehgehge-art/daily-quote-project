@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-03",
-  "fetched_at": "2026-10-03T04:50:10+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/03",
+  "date": "2026-10-04",
+  "fetched_at": "2026-10-04T03:36:34+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/04",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-01",
+  "mostread_date": "2026-10-02",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 12592,
+      "views": 13736,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
-      "title": "이홍구 (1934년)",
-      "description": "대한민국의 정치인 (1934–2026)",
-      "views": 12202,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%99%8D%EA%B5%AC_(1934%EB%85%84)"
-    },
-    {
-      "rank": 3,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 8963,
+      "views": 9742,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
+      "rank": 3,
+      "title": "김민 (1999년)",
+      "description": "대한민국의 배우 (1999년 출생)",
+      "views": 7929,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC_(1999%EB%85%84)"
+    },
+    {
       "rank": 4,
-      "title": "허미미",
-      "description": "대한민국의 여자 유도 선수",
-      "views": 8071,
-      "url": "https://ko.wikipedia.org/wiki/%ED%97%88%EB%AF%B8%EB%AF%B8"
+      "title": "개천절",
+      "description": "대한민국의 건국기념일 (10월 3일)",
+      "views": 5918,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EC%B2%9C%EC%A0%88"
     },
     {
       "rank": 5,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 5224,
+      "views": 5013,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 6,
-      "title": "김예지 (사격 선수)",
-      "description": "대한민국의 여자 사격 선수",
-      "views": 4366,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%88%EC%A7%80_(%EC%82%AC%EA%B2%A9_%EC%84%A0%EC%88%98)"
+      "title": "김민 (1983년)",
+      "description": "대한민국의 배우 (1983년 출생)",
+      "views": 3943,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC_(1983%EB%85%84)"
     },
     {
       "rank": 7,
-      "title": "송기윤",
-      "description": "대한민국의 배우, 정치인",
-      "views": 4193,
-      "url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EA%B8%B0%EC%9C%A4"
+      "title": "주현미",
+      "description": "대한민국의 여자 가수",
+      "views": 3662,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%ED%98%84%EB%AF%B8"
     },
     {
       "rank": 8,
       "title": "육영수 저격 사건",
       "description": "",
-      "views": 2903,
+      "views": 3637,
       "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
     },
     {
       "rank": 9,
-      "title": "주현미",
-      "description": "대한민국의 여자 가수",
-      "views": 2814,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%ED%98%84%EB%AF%B8"
+      "title": "2026년 아시안 게임 메달 집계",
+      "description": "2026년 아시안 게임의 각 평의회 별 메달 집계",
+      "views": 3155,
+      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%88_%EA%B2%8C%EC%9E%84_%EB%A9%94%EB%8B%AC_%EC%A7%91%EA%B3%84"
     },
     {
       "rank": 10,
-      "title": "2026년 아시안 게임 메달 집계",
-      "description": "2026년 아시안 게임의 각 평의회 별 메달 집계",
-      "views": 2794,
-      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%88_%EA%B2%8C%EC%9E%84_%EB%A9%94%EB%8B%AC_%EC%A7%91%EA%B3%84"
+      "title": "박정희",
+      "description": "대한민국의 제5–9대 대통령 (1917–1979)",
+      "views": 2392,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A0%95%ED%9D%AC"
     }
   ],
   "image": {
-    "title": "File:Brown booby (Sula leucogaster plotus) male in flight Michaelmas Cay.jpg",
-    "description": "Brown booby (Sula leucogaster plotus) male in flight over Michaelmas Cay, Great Barrier Reef, Queensland, Australia.",
-    "artist": "Charles J. Sharp",
+    "title": "File:Basilica dei Santi Apostoli (Rome) - Ceiling.jpg",
+    "description": "Baciccio's Triumph of Franciscan Order depicts the Apostles recommending Francis of Assisi, Anthony of Padua, and other Franciscans to Christ for admittance into Heaven. The fresco is on the vaulted ceiling of the Church of the Twelve Holy Apostles in Rome. This year is the 800th anniversary of Francis of Assisi's death. Today is his feast day.",
+    "artist": "Livioandronico2013",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Brown_booby_(Sula_leucogaster_plotus)_male_in_flight_Michaelmas_Cay.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Brown_booby_%28Sula_leucogaster_plotus%29_male_in_flight_Michaelmas_Cay.jpg/960px-Brown_booby_%28Sula_leucogaster_plotus%29_male_in_flight_Michaelmas_Cay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Apostoli_(Rome)_-_Ceiling.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg/960px-Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "9월 30일, 플라이두바이 1073편 여객기(사진)가 사우디아라비아 상공을 비행하던 중, 승무원들과 승객들의 용기 있는 대처로 납치 및 고의 추락 시도를 막아냈다.",
