@@ -1,17 +1,88 @@
 {
-  "date": "2026-10-05",
-  "fetched_at": "2026-10-05T03:34:30+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/05",
+  "date": "2026-10-06",
+  "fetched_at": "2026-10-06T06:55:09+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/06",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "",
-  "mostread": [],
+  "mostread_date": "2026-10-04",
+  "mostread": [
+    {
+      "rank": 1,
+      "title": "문화방송",
+      "description": "대한민국의 지상파 방송사",
+      "views": 13628,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+    },
+    {
+      "rank": 2,
+      "title": "한국방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 9146,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 3,
+      "title": "김민 (1999년)",
+      "description": "대한민국의 배우 (1999년 출생)",
+      "views": 8544,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC_(1999%EB%85%84)"
+    },
+    {
+      "rank": 4,
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 6914,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 5,
+      "title": "김민 (1983년)",
+      "description": "대한민국의 배우 (1983년 출생)",
+      "views": 6877,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC_(1983%EB%85%84)"
+    },
+    {
+      "rank": 6,
+      "title": "댜틀로프 고개 사건",
+      "description": "",
+      "views": 5776,
+      "url": "https://ko.wikipedia.org/wiki/%EB%8C%9C%ED%8B%80%EB%A1%9C%ED%94%84_%EA%B3%A0%EA%B0%9C_%EC%82%AC%EA%B1%B4"
+    },
+    {
+      "rank": 7,
+      "title": "송기윤",
+      "description": "대한민국의 배우, 정치인",
+      "views": 4556,
+      "url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EA%B8%B0%EC%9C%A4"
+    },
+    {
+      "rank": 8,
+      "title": "김혜자",
+      "description": "대한민국의 배우",
+      "views": 3929,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%9C%EC%9E%90"
+    },
+    {
+      "rank": 9,
+      "title": "2026년 아시안 게임 메달 집계",
+      "description": "2026년 아시안 게임의 각 평의회 별 메달 집계",
+      "views": 3746,
+      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%88_%EA%B2%8C%EC%9E%84_%EB%A9%94%EB%8B%AC_%EC%A7%91%EA%B3%84"
+    },
+    {
+      "rank": 10,
+      "title": "육영수 저격 사건",
+      "description": "",
+      "views": 3583,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
+    }
+  ],
   "image": {
-    "title": "File:Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg",
-    "description": "Twin mills (front: green mill, 1856; rear: red mill or Schoof’s mill, 1706), Greetsiel, Krummhörn, Lower Saxony, Germany",
-    "artist": "Dietmar Rabich",
+    "title": "File:Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg",
+    "description": "Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.",
+    "artist": "Agnes Monkelbaan",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Krummh%C3%B6rn,_Greetsiel,_Windm%C3%BChlen_--_2025_--_9837.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Krummh%C3%B6rn%2C_Greetsiel%2C_Windm%C3%BChlen_--_2025_--_9837.jpg/960px-Krummh%C3%B6rn%2C_Greetsiel%2C_Windm%C3%BChlen_--_2025_--_9837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg/960px-Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "9월 30일, 플라이두바이 1073편 여객기(사진)가 사우디아라비아 상공을 비행하던 중, 승무원들과 승객들의 용기 있는 대처로 납치 및 고의 추락 시도를 막아냈다.",
