@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-07",
-  "fetched_at": "2026-10-07T05:06:42+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/07",
+  "date": "2026-10-08",
+  "fetched_at": "2026-10-08T05:31:08+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/08",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-05",
+  "mostread_date": "2026-10-06",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 14572,
+      "views": 15692,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
-      "title": "한국방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 9241,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "title": "흑상어",
+      "description": "",
+      "views": 11883,
+      "url": "https://ko.wikipedia.org/wiki/%ED%9D%91%EC%83%81%EC%96%B4"
     },
     {
       "rank": 3,
-      "title": "이수영 (1979년)",
-      "description": "대한민국의 가수 및 발라드 음악가",
-      "views": 7983,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%98%EC%98%81_(1979%EB%85%84)"
+      "title": "한국방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 9029,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
-      "title": "휘성",
-      "description": "대한민국의 가수 (1982–2025)",
-      "views": 7266,
-      "url": "https://ko.wikipedia.org/wiki/%ED%9C%98%EC%84%B1"
+      "title": "조희대",
+      "description": "대한민국 제17대 대법원장",
+      "views": 5045,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%ED%9D%AC%EB%8C%80"
     },
     {
       "rank": 5,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 6775,
+      "views": 4892,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 6,
-      "title": "육영수 저격 사건",
-      "description": "",
-      "views": 4640,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
+      "title": "서영교",
+      "description": "대한민국의 정치인",
+      "views": 3949,
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%98%81%EA%B5%90"
     },
     {
       "rank": 7,
-      "title": "김민 (1999년)",
-      "description": "대한민국의 배우 (1999년 출생)",
-      "views": 4536,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC_(1999%EB%85%84)"
+      "title": "페스트균",
+      "description": "페스트의 원인균",
+      "views": 3763,
+      "url": "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%8A%A4%ED%8A%B8%EA%B7%A0"
     },
     {
       "rank": 8,
-      "title": "문세광",
-      "description": "재일교포 출신 범죄자, 육영수 피살 사건의 범인",
-      "views": 4212,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%84%B8%EA%B4%91"
+      "title": "강경헌",
+      "description": "",
+      "views": 3313,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B2%BD%ED%97%8C"
     },
     {
       "rank": 9,
-      "title": "댜틀로프 고개 사건",
-      "description": "",
-      "views": 4207,
-      "url": "https://ko.wikipedia.org/wiki/%EB%8C%9C%ED%8B%80%EB%A1%9C%ED%94%84_%EA%B3%A0%EA%B0%9C_%EC%82%AC%EA%B1%B4"
+      "title": "휘성",
+      "description": "대한민국의 가수 (1982–2025)",
+      "views": 3115,
+      "url": "https://ko.wikipedia.org/wiki/%ED%9C%98%EC%84%B1"
     },
     {
       "rank": 10,
-      "title": "김민 (1983년)",
-      "description": "대한민국의 배우 (1983년 출생)",
-      "views": 3707,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC_(1983%EB%85%84)"
+      "title": "육영수 저격 사건",
+      "description": "",
+      "views": 2725,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98_%EC%A0%80%EA%B2%A9_%EC%82%AC%EA%B1%B4"
     }
   ],
   "image": {
-    "title": "File:Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg",
-    "description": "Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.",
-    "artist": "Tisha Mukherjee",
+    "title": "File:011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "description": "Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil",
+    "artist": "Giles Laurent",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg/960px-Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 6일, 2026년 노벨 물리학상에 프란시스 할전이 수상되었다.",
