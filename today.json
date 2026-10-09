@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-09",
-  "fetched_at": "2026-10-09T05:36:23+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/09",
+  "date": "2026-10-10",
+  "fetched_at": "2026-10-10T05:02:56+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/10",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-07",
+  "mostread_date": "2026-10-08",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 15457,
+      "views": 13893,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 12460,
+      "views": 11597,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 4259,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "title": "세계 우주 주간",
+      "description": "",
+      "views": 9425,
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EA%B3%84_%EC%9A%B0%EC%A3%BC_%EC%A3%BC%EA%B0%84"
     },
     {
       "rank": 4,
-      "title": "패노메논 페스티벌",
+      "title": "임종득",
       "description": "",
-      "views": 4211,
-      "url": "https://ko.wikipedia.org/wiki/%ED%8C%A8%EB%85%B8%EB%A9%94%EB%85%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C"
+      "views": 4824,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%A2%85%EB%93%9D"
     },
     {
       "rank": 5,
-      "title": "권혁 (기업인)",
-      "description": "",
-      "views": 3602,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%ED%98%81_(%EA%B8%B0%EC%97%85%EC%9D%B8)"
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 4250,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 6,
-      "title": "페노메논",
-      "description": "1996 년 Jon Turteltaub 감독의 영화",
-      "views": 3397,
-      "url": "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%85%B8%EB%A9%94%EB%85%BC"
+      "title": "임세주",
+      "description": "대한민국의 가수",
+      "views": 3075,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%84%B8%EC%A3%BC"
     },
     {
       "rank": 7,
-      "title": "흑상어",
-      "description": "",
-      "views": 3125,
-      "url": "https://ko.wikipedia.org/wiki/%ED%9D%91%EC%83%81%EC%96%B4"
-    },
-    {
-      "rank": 8,
-      "title": "페스트균",
-      "description": "페스트의 원인균",
-      "views": 3001,
-      "url": "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%8A%A4%ED%8A%B8%EA%B7%A0"
-    },
-    {
-      "rank": 9,
       "title": "5·18 광주 민주화 운동",
       "description": "1980년 대한민국 전라남도 광주와 주변 지역에서 발생한 민주화 운동",
-      "views": 2817,
+      "views": 3044,
       "url": "https://ko.wikipedia.org/wiki/5%C2%B718_%EA%B4%91%EC%A3%BC_%EB%AF%BC%EC%A3%BC%ED%99%94_%EC%9A%B4%EB%8F%99"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "서영교",
       "description": "대한민국의 정치인",
-      "views": 2406,
+      "views": 2351,
       "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%98%81%EA%B5%90"
+    },
+    {
+      "rank": 9,
+      "title": "앤 카슨",
+      "description": "캐나다 시인, 수필가",
+      "views": 2299,
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%A4_%EC%B9%B4%EC%8A%A8"
+    },
+    {
+      "rank": 10,
+      "title": "윤소희",
+      "description": "대한민국의 배우",
+      "views": 2250,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EC%86%8C%ED%9D%AC"
     }
   ],
   "image": {
-    "title": "File:PO boxes at the historic Chico Post Office (2024)-L1005460.jpg",
-    "description": "PO boxes at the historic U.S. Post Office in downtown Chico, California. Today is International World Post Day.",
-    "artist": "Frank Schulenburg",
-    "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:PO_boxes_at_the_historic_Chico_Post_Office_(2024)-L1005460.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg/960px-PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Bust of Germanicus, front - Getty Museum (2021.66).jpg",
+    "description": "Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted before the Roman rite of depositio barbae, the first shaving of the beard. Adopted by emperor Tiberius, Germanicus should succed him as Emperor, if he hadn't died on this day 2007 years ago.",
+    "artist": "J. Paul Getty Museum",
+    "license": "CC0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bust_of_Germanicus,_front_-_Getty_Museum_(2021.66).jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg/960px-Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 6일, 2026년 노벨 물리학상에 프란시스 할전이 수상되었다.",
