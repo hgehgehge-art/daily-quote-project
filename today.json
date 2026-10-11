@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-11",
-  "fetched_at": "2026-10-11T04:11:24+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/11",
+  "date": "2026-10-12",
+  "fetched_at": "2026-10-12T04:25:43+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/12",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
   "mostread_date": "",
   "mostread": [],
   "image": {
-    "title": "File:Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG",
-    "description": "Archaeological area of Cantona, Puebla, Mexico",
-    "artist": "Diego Delso",
+    "title": "File:Gotland Grand National October 2023 12.jpg",
+    "description": "Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.",
+    "artist": "Arild Vågen",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cantona,_Puebla,_M%C3%A9xico,_2013-10-11,_DD_43.JPG",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG/960px-Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gotland_Grand_National_October_2023_12.jpg/960px-Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 6일, 2026년 노벨 물리학상에 프란시스 할전이 수상되었다.",
