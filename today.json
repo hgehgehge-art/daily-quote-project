@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-14",
-  "fetched_at": "2026-10-14T05:33:55+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/14",
+  "date": "2026-10-15",
+  "fetched_at": "2026-10-15T04:14:52+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/15",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-12",
+  "mostread_date": "2026-10-13",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 17351,
+      "views": 16243,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 11020,
+      "views": 12949,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
-      "title": "임은정 (법조인)",
-      "description": "대한민국의 법조인 (1974년 출생)",
-      "views": 5467,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%9D%80%EC%A0%95_(%EB%B2%95%EC%A1%B0%EC%9D%B8)"
-    },
-    {
-      "rank": 4,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 5284,
+      "views": 5076,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
+      "rank": 4,
+      "title": "김지원 (배우)",
+      "description": "대한민국의 배우",
+      "views": 3017,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%EC%9B%90_(%EB%B0%B0%EC%9A%B0)"
+    },
+    {
       "rank": 5,
-      "title": "DN오토모티브",
-      "description": "대한민국의 자동차 부품 기업",
-      "views": 4142,
-      "url": "https://ko.wikipedia.org/wiki/DN%EC%98%A4%ED%86%A0%EB%AA%A8%ED%8B%B0%EB%B8%8C"
+      "title": "바다 (가수)",
+      "description": "대한민국의 가수",
+      "views": 2538,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%8B%A4_(%EA%B0%80%EC%88%98)"
     },
     {
       "rank": 6,
       "title": "제척",
       "description": "",
-      "views": 3448,
+      "views": 2309,
       "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%B2%99"
     },
     {
       "rank": 7,
-      "title": "미스 월드 코리아",
-      "description": "",
-      "views": 2845,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%8A%A4_%EC%9B%94%EB%93%9C_%EC%BD%94%EB%A6%AC%EC%95%84"
+      "title": "추미애",
+      "description": "대한민국의 판사 출신 정치인",
+      "views": 2158,
+      "url": "https://ko.wikipedia.org/wiki/%EC%B6%94%EB%AF%B8%EC%95%A0"
     },
     {
       "rank": 8,
-      "title": "김세인 (1983년)",
-      "description": "대한민국의 배우 (1983년 출생)",
-      "views": 2474,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%84%B8%EC%9D%B8_(1983%EB%85%84)"
+      "title": "필립 K. 딕",
+      "description": "미국 SF 소설가 (1928–1982)",
+      "views": 2077,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%84%EB%A6%BD_K._%EB%94%95"
     },
     {
       "rank": 9,
-      "title": "박진영 (1994년)",
-      "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
-      "views": 2195,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
+      "title": "닥터X: 하얀 마피아의 시대",
+      "description": "2026 SBS 금토 드라마",
+      "views": 2033,
+      "url": "https://ko.wikipedia.org/wiki/%EB%8B%A5%ED%84%B0X%3A_%ED%95%98%EC%96%80_%EB%A7%88%ED%94%BC%EC%95%84%EC%9D%98_%EC%8B%9C%EB%8C%80"
     },
     {
       "rank": 10,
-      "title": "김지원 (배우)",
-      "description": "대한민국의 배우",
-      "views": 2115,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%EC%9B%90_(%EB%B0%B0%EC%9A%B0)"
+      "title": "코리아세일페스타",
+      "description": "",
+      "views": 1807,
+      "url": "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%B8%EC%9D%BC%ED%8E%98%EC%8A%A4%ED%83%80"
     }
   ],
   "image": {
-    "title": "File:Great Blue Heron (Ardea herodias), hunting.jpg",
-    "description": "Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, California.",
-    "artist": "Frank Schulenburg",
-    "license": "CC BY-SA 3.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Great_Blue_Heron_(Ardea_herodias),_hunting.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg/960px-Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg",
+    "description": "White teatfish (Holothuria fuscogilva), Ras Muhammad National Park, Red Sea, Egypt. This species of sea cucumber, also known as white teeth, is found in shallow waters near islands and around coral reefs in the tropical waters of the Indo-Pacific ocean. Juvenile cucumbers live in shallower waters (such as inter-tidal zones) and then migrate to deeper waters as they mature. Adult cucumbers weigh between 2.4 and 4 kilograms. They are oval in shape and have a firm texture. This species cucumber has lateral papillae (teats) which are often buried in the sand. As it's consumed as a food and is part of a large commercial fishery across its range, it was listed as vulnerable on the IUCN Red List in 2010 due to overfishing.",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Holothuria_fuscogilva),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_119.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg/960px-Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 6일, 2026년 노벨 물리학상에 프란시스 할전이 수상되었다.",
