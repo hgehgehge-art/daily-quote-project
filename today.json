@@ -1,88 +1,17 @@
 {
-  "date": "2026-10-17",
-  "fetched_at": "2026-10-17T03:42:42+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/17",
+  "date": "2026-10-18",
+  "fetched_at": "2026-10-18T02:48:48+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/18",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-15",
-  "mostread": [
-    {
-      "rank": 1,
-      "title": "문화방송",
-      "description": "대한민국의 지상파 방송사",
-      "views": 13880,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
-    },
-    {
-      "rank": 2,
-      "title": "한국방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 9657,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 3,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 6010,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 4,
-      "title": "솔비",
-      "description": "대한민국의 가수이자 화가",
-      "views": 3090,
-      "url": "https://ko.wikipedia.org/wiki/%EC%86%94%EB%B9%84"
-    },
-    {
-      "rank": 5,
-      "title": "이규한 (배우)",
-      "description": "대한민국의 배우",
-      "views": 2866,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B7%9C%ED%95%9C_(%EB%B0%B0%EC%9A%B0)"
-    },
-    {
-      "rank": 6,
-      "title": "강훈식",
-      "description": "대한민국의 정치인 (1973년~)",
-      "views": 2150,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%9B%88%EC%8B%9D"
-    },
-    {
-      "rank": 7,
-      "title": "빅 나티",
-      "description": "대한민국의 래퍼",
-      "views": 1857,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B9%85_%EB%82%98%ED%8B%B0"
-    },
-    {
-      "rank": 8,
-      "title": "임광현 (1969년)",
-      "description": "",
-      "views": 1820,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EA%B4%91%ED%98%84_(1969%EB%85%84)"
-    },
-    {
-      "rank": 9,
-      "title": "강선우",
-      "description": "대한민국의 정치인",
-      "views": 1682,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%A0%EC%9A%B0"
-    },
-    {
-      "rank": 10,
-      "title": "코리아세일페스타",
-      "description": "",
-      "views": 1516,
-      "url": "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%B8%EC%9D%BC%ED%8E%98%EC%8A%A4%ED%83%80"
-    }
-  ],
+  "mostread_date": "",
+  "mostread": [],
   "image": {
-    "title": "File:Purple beautyberry, October 2015 - Stacking.jpg",
-    "description": "Purple beautyberry, Daisen Park, Sakai, Osaka. Focus stack of 4 photos.",
-    "artist": "Laitche",
-    "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Purple_beautyberry,_October_2015_-_Stacking.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Purple_beautyberry%2C_October_2015_-_Stacking.jpg/960px-Purple_beautyberry%2C_October_2015_-_Stacking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Grandes Heures Anne de Bretagne Saint Luc.jpg",
+    "description": "An image of Saint Luke from Grandes Heures d'Anne de Bretagne. Today is the feast day of Saint Luke.",
+    "artist": "Jean Bourdichon",
+    "license": "Public domain",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg/960px-Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 6일, 2026년 노벨 물리학상에 프란시스 할전이 수상되었다.",
