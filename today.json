@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-18",
-  "fetched_at": "2026-10-18T02:48:48+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/18",
+  "date": "2026-10-19",
+  "fetched_at": "2026-10-19T02:55:42+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/19",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
   "mostread_date": "",
   "mostread": [],
   "image": {
-    "title": "File:Grandes Heures Anne de Bretagne Saint Luc.jpg",
-    "description": "An image of Saint Luke from Grandes Heures d'Anne de Bretagne. Today is the feast day of Saint Luke.",
-    "artist": "Jean Bourdichon",
-    "license": "Public domain",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg/960px-Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha Mukherjee 11.jpg",
+    "description": "Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India.",
+    "artist": "Tisha Mukherjee",
+    "license": "CC BY-SA 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/960px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
-    "10월 6일, 2026년 노벨 물리학상에 프란시스 할전이 수상되었다.",
+    "10월 6일, 프란시스 할전이 2026년 노벨 물리학상을 수상했다.",
     "9월 30일, 플라이두바이 1073편 여객기(사진)가 사우디아라비아 상공을 비행하던 중, 승무원들과 승객들의 용기 있는 대처로 납치 및 고의 추락 시도를 막아냈다.",
     "9월 19일, 일본 나고야시에서 2026년 아시안 게임이 개막했다.",
     "9월 16일, 코소보의 전 지도자 하심 사치가 자신의 지휘 아래 있던 코소보 해방군의 전쟁 범죄로 징역 25년을 선고받았다.",
