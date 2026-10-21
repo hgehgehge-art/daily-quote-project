@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-21",
-  "fetched_at": "2026-10-21T04:05:31+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/21",
+  "date": "2026-10-22",
+  "fetched_at": "2026-10-22T04:11:00+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/22",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-19",
+  "mostread_date": "2026-10-20",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 14937,
+      "views": 16902,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 9483,
+      "views": 10373,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 5357,
+      "views": 5738,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
-      "title": "추미애",
-      "description": "대한민국의 판사 출신 정치인",
-      "views": 3045,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B6%94%EB%AF%B8%EC%95%A0"
+      "title": "김정은",
+      "description": "조선 제3대 최고지도자, 조선로동당 제3대 총비서",
+      "views": 4263,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%95%EC%9D%80"
     },
     {
       "rank": 5,
-      "title": "정명석",
-      "description": "대한민국의 신흥 종교 지도자, 범죄인",
-      "views": 2230,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%AA%85%EC%84%9D"
+      "title": "2020년 김정은 사망설 논란",
+      "description": "",
+      "views": 4090,
+      "url": "https://ko.wikipedia.org/wiki/2020%EB%85%84_%EA%B9%80%EC%A0%95%EC%9D%80_%EC%82%AC%EB%A7%9D%EC%84%A4_%EB%85%BC%EB%9E%80"
     },
     {
       "rank": 6,
-      "title": "5·18 광주 민주화 운동",
-      "description": "1980년 대한민국 전라남도 광주와 주변 지역에서 발생한 민주화 운동",
-      "views": 1982,
-      "url": "https://ko.wikipedia.org/wiki/5%C2%B718_%EA%B4%91%EC%A3%BC_%EB%AF%BC%EC%A3%BC%ED%99%94_%EC%9A%B4%EB%8F%99"
+      "title": "강헌 (음악 평론가)",
+      "description": "대한민국의 평론가 (1962–2026)",
+      "views": 3720,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%97%8C_(%EC%9D%8C%EC%95%85_%ED%8F%89%EB%A1%A0%EA%B0%80)"
     },
     {
       "rank": 7,
-      "title": "로이킴",
-      "description": "대한민국의 가수",
-      "views": 1901,
-      "url": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9D%B4%ED%82%B4"
+      "title": "강신일",
+      "description": "대한민국의 배우, 가수",
+      "views": 3319,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%8B%A0%EC%9D%BC"
     },
     {
       "rank": 8,
-      "title": "박진영 (1994년)",
-      "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
-      "views": 1801,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
+      "title": "5·18 광주 민주화 운동",
+      "description": "1980년 대한민국 전라남도 광주와 주변 지역에서 발생한 민주화 운동",
+      "views": 2764,
+      "url": "https://ko.wikipedia.org/wiki/5%C2%B718_%EA%B4%91%EC%A3%BC_%EB%AF%BC%EC%A3%BC%ED%99%94_%EC%9A%B4%EB%8F%99"
     },
     {
       "rank": 9,
       "title": "부승찬",
       "description": "대한민국의 정치인",
-      "views": 1786,
+      "views": 2268,
       "url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%8A%B9%EC%B0%AC"
     },
     {
       "rank": 10,
-      "title": "미국의 중간선거",
-      "description": "",
-      "views": 1717,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0"
+      "title": "김도영 (2003년)",
+      "description": "대한민국의 남자 야구 선수",
+      "views": 2053,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8F%84%EC%98%81_(2003%EB%85%84)"
     }
   ],
   "image": {
-    "title": "File:Hoverfly October 2007-21.jpg",
-    "description": "A small hoverfly in the sun (female Episyrphus balteatus)",
-    "artist": "Alvesgaspar",
-    "license": "CC BY-SA 3.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Hoverfly_October_2007-21.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/960px-Hoverfly_October_2007-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Red Dragon scuplture during River Lee flooding, October 2023.jpg",
+    "description": "Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023",
+    "artist": "Podstawko",
+    "license": "CC BY-SA 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Red_Dragon_scuplture_during_River_Lee_flooding,_October_2023.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg/960px-Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 17일, 프랑스 학생 시위 영향으로 리모주 시청사(사진) 종탑과 지붕은 화염에 휩싸여 건물 내부도 붕괴되었다.",
