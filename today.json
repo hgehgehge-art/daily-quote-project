@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-26",
-  "fetched_at": "2026-10-26T03:17:37+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/26",
+  "date": "2026-10-27",
+  "fetched_at": "2026-10-27T05:22:38+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/27",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-24",
+  "mostread_date": "2026-10-25",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 10956,
+      "views": 14098,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 10049,
+      "views": 9881,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 6838,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 4,
-      "title": "이진희 (배우)",
-      "description": "대한민국의 배우",
-      "views": 5496,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%ED%9D%AC_(%EB%B0%B0%EC%9A%B0)"
-    },
-    {
-      "rank": 5,
-      "title": "김지원 (배우)",
-      "description": "대한민국의 배우",
-      "views": 3701,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%EC%9B%90_(%EB%B0%B0%EC%9A%B0)"
-    },
-    {
-      "rank": 6,
       "title": "5·18 광주 민주화 운동",
       "description": "1980년 대한민국 전라남도 광주와 주변 지역에서 발생한 민주화 운동",
-      "views": 2565,
+      "views": 9242,
       "url": "https://ko.wikipedia.org/wiki/5%C2%B718_%EA%B4%91%EC%A3%BC_%EB%AF%BC%EC%A3%BC%ED%99%94_%EC%9A%B4%EB%8F%99"
     },
     {
+      "rank": 4,
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 7229,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 5,
+      "title": "푸사를라 벵카타 신두",
+      "description": "인도의 여자 배드민턴 선수",
+      "views": 6663,
+      "url": "https://ko.wikipedia.org/wiki/%ED%91%B8%EC%82%AC%EB%A5%BC%EB%9D%BC_%EB%B2%B5%EC%B9%B4%ED%83%80_%EC%8B%A0%EB%91%90"
+    },
+    {
+      "rank": 6,
+      "title": "이진희 (배우)",
+      "description": "대한민국의 배우",
+      "views": 4871,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%ED%9D%AC_(%EB%B0%B0%EC%9A%B0)"
+    },
+    {
       "rank": 7,
-      "title": "양홍원",
-      "description": "",
-      "views": 2557,
-      "url": "https://ko.wikipedia.org/wiki/%EC%96%91%ED%99%8D%EC%9B%90"
+      "title": "박진영 (1994년)",
+      "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
+      "views": 3698,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
     },
     {
       "rank": 8,
-      "title": "김영임 (국악인)",
+      "title": "양부남",
       "description": "",
-      "views": 2404,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%9E%84_(%EA%B5%AD%EC%95%85%EC%9D%B8)"
+      "views": 3385,
+      "url": "https://ko.wikipedia.org/wiki/%EC%96%91%EB%B6%80%EB%82%A8"
     },
     {
       "rank": 9,
-      "title": "닥터X: 하얀 마피아의 시대",
-      "description": "2026 SBS 금토 드라마",
-      "views": 2261,
-      "url": "https://ko.wikipedia.org/wiki/%EB%8B%A5%ED%84%B0X%3A_%ED%95%98%EC%96%80_%EB%A7%88%ED%94%BC%EC%95%84%EC%9D%98_%EC%8B%9C%EB%8C%80"
+      "title": "김지원 (배우)",
+      "description": "대한민국의 배우",
+      "views": 2889,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%EC%9B%90_(%EB%B0%B0%EC%9A%B0)"
     },
     {
       "rank": 10,
-      "title": "손석구",
-      "description": "대한민국의 배우",
-      "views": 2114,
-      "url": "https://ko.wikipedia.org/wiki/%EC%86%90%EC%84%9D%EA%B5%AC"
+      "title": "100일의 거짓말",
+      "description": "",
+      "views": 2465,
+      "url": "https://ko.wikipedia.org/wiki/100%EC%9D%BC%EC%9D%98_%EA%B1%B0%EC%A7%93%EB%A7%90"
     }
   ],
   "image": {
-    "title": "File:Horses grazing at Trunkol meadow, Jammu and Kashmir, India (crop).jpg",
-    "description": "Horses grazing at Trunkol meadow in the Himalayas of India. The meadow is situated on the way to the sacred Gangabal Lake in Jammu and Kashmir.",
-    "artist": "UnpetitproleX",
-    "license": "CC BY 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Horses_grazing_at_Trunkol_meadow,_Jammu_and_Kashmir,_India_(crop).jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg/960px-Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Ankara asv2021-10 img17 Atakule.jpg",
+    "description": "Atakule TV tower with attached shopping mall in Ankara, Turkey",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img17_Atakule.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ankara_asv2021-10_img17_Atakule.jpg/960px-Ankara_asv2021-10_img17_Atakule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 21일, PHP2Shell 취약점이 공개되었다. 이후 대형 사이버보안 취약점 공개가 이어지고 있다(검은 10월).",
