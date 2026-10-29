@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-29",
-  "fetched_at": "2026-10-29T05:09:42+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/29",
+  "date": "2026-10-30",
+  "fetched_at": "2026-10-30T05:07:19+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/30",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-27",
+  "mostread_date": "2026-10-28",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 14666,
+      "views": 12859,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 9595,
+      "views": 12136,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 6671,
+      "views": 5916,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
       "title": "5·18 광주 민주화 운동",
       "description": "1980년 대한민국 전라남도 광주와 주변 지역에서 발생한 민주화 운동",
-      "views": 4045,
+      "views": 2564,
       "url": "https://ko.wikipedia.org/wiki/5%C2%B718_%EA%B4%91%EC%A3%BC_%EB%AF%BC%EC%A3%BC%ED%99%94_%EC%9A%B4%EB%8F%99"
     },
     {
       "rank": 5,
-      "title": "구룡마을",
-      "description": "서울특별시의 판자촌",
-      "views": 3082,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A3%A1%EB%A7%88%EC%9D%84"
+      "title": "블레이즈와 몬스터 머신",
+      "description": "",
+      "views": 2141,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A0%88%EC%9D%B4%EC%A6%88%EC%99%80_%EB%AA%AC%EC%8A%A4%ED%84%B0_%EB%A8%B8%EC%8B%A0"
     },
     {
       "rank": 6,
-      "title": "박진영 (1994년)",
-      "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
-      "views": 2725,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
+      "title": "진성준",
+      "description": "대한민국의 정치인",
+      "views": 2061,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%84%B1%EC%A4%80"
     },
     {
       "rank": 7,
-      "title": "앤트로픽",
-      "description": "미국의 인공지능 업체",
-      "views": 1967,
-      "url": "https://ko.wikipedia.org/wiki/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD"
+      "title": "엑스러브",
+      "description": "대한민국의 4인조 보이 그룹",
+      "views": 1882,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%91%EC%8A%A4%EB%9F%AC%EB%B8%8C"
     },
     {
       "rank": 8,
-      "title": "서현진 (배우)",
-      "description": "대한민국의 여자 배우",
-      "views": 1746,
-      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%ED%98%84%EC%A7%84_(%EB%B0%B0%EC%9A%B0)"
+      "title": "박진영 (1994년)",
+      "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
+      "views": 1827,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
     },
     {
       "rank": 9,
-      "title": "최형우 (야구 선수)",
-      "description": "대한민국의 남자 야구 선수",
-      "views": 1743,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%ED%98%95%EC%9A%B0_(%EC%95%BC%EA%B5%AC_%EC%84%A0%EC%88%98)"
+      "title": "이태원 참사",
+      "description": "2022년 10월 29일 서울 이태원에서 발생한 대형 참사",
+      "views": 1696,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90_%EC%B0%B8%EC%82%AC"
     },
     {
       "rank": 10,
-      "title": "오경미",
-      "description": "대한민국의 법관",
-      "views": 1589,
-      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EA%B2%BD%EB%AF%B8"
+      "title": "여성 사정",
+      "description": "오르가슴에 도달했을 때 액체를 분출하는 현상",
+      "views": 1415,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%84%B1_%EC%82%AC%EC%A0%95"
     }
   ],
   "image": {
-    "title": "File:Vignes près du Pic de Vissou - October 2020.jpg",
-    "description": "Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.",
-    "artist": "Christian Ferrer",
-    "license": "CC BY 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg/960px-Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg",
+    "description": "Sunrays shining through trees and weak fog near Walchwil, Switzerland",
+    "artist": "NOTE: This image is a panorama of Sunrays near Walchwil, Switzerland consisting of 7 frames that were merged or stitched in Kolor Autopano Pro. As a result, this image necessarily underwent some form of digital manipulation. These manipulations may include blending, blurring, cloning, and color and perspective adjustments. As a result of these adjustments, the image content may be slightly different from reality at the points where multiple images were combined. This manipulation is often required due to lens, perspective, and parallax distortions.",
+    "license": "CC BY-SA 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg/960px-CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
+    "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다.",
     "10월 25일, 브라질 총선에서 자유당이 브라질 국민회의의 양원 모두에서 다수 의석을 유지한 동안 루이스 이나시우 룰라 다 시우바 (사진)가 대통령으로 재선되었다.",
     "10월 21일, PHP2Shell 취약점이 공개되었다. 이후 대형 사이버보안 취약점들의 공개가 이어지고 있다(검은 10월).",
     "10월 17일, 프랑스 학생 시위 영향으로 리모주 시청사 종탑과 지붕은 화염에 휩싸여 건물 내부도 붕괴되었다.",
-    "10월 15일, 국제 도량형국이 컴퓨터 시스템의 오작동 및 장애 우려로 인해 윤초를 폐지하는 조치에 투표했다.",
-    "10월 6일, 후티들이 사우디아라비아 공항 공격을 개시하여 최소한 20명이 살해되고 370명 이상이 부상을 당했다."
+    "10월 15일, 국제 도량형국이 컴퓨터 시스템의 오작동 및 장애 우려로 인해 윤초를 폐지하는 조치에 투표했다."
   ]
 }
