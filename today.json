@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-31",
-  "fetched_at": "2026-10-31T04:53:09+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/10/31",
+  "date": "2026-11-01",
+  "fetched_at": "2026-11-01T04:10:45+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/01",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-29",
+  "mostread_date": "2026-10-30",
   "mostread": [
     {
       "rank": 1,
-      "title": "문화방송",
-      "description": "대한민국의 지상파 방송사",
-      "views": 13218,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
-    },
-    {
-      "rank": 2,
-      "title": "한국방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 9261,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 3,
       "title": "최불암",
       "description": "대한민국의 배우 (1939–2026)",
-      "views": 7424,
+      "views": 18477,
       "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%B6%88%EC%95%94"
     },
     {
-      "rank": 4,
-      "title": "한국교육방송공사",
+      "rank": 2,
+      "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 6016,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "views": 11602,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "김민자",
       "description": "",
-      "views": 4457,
+      "views": 9996,
       "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%9E%90"
     },
     {
+      "rank": 4,
+      "title": "한국방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 8618,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 5,
+      "title": "차예련",
+      "description": "대한민국의 배우",
+      "views": 6239,
+      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%98%88%EB%A0%A8"
+    },
+    {
       "rank": 6,
-      "title": "이태원 참사",
-      "description": "2022년 10월 29일 서울 이태원에서 발생한 대형 참사",
-      "views": 3708,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90_%EC%B0%B8%EC%82%AC"
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 5860,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 7,
-      "title": "장은숙 (가수)",
-      "description": "",
-      "views": 2760,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%9D%80%EC%88%99_(%EA%B0%80%EC%88%98)"
+      "title": "김소원 (1935년)",
+      "description": "대한민국의 배우",
+      "views": 5254,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%86%8C%EC%9B%90_(1935%EB%85%84)"
     },
     {
       "rank": 8,
-      "title": "진성준",
-      "description": "대한민국의 정치인",
-      "views": 2213,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%84%B1%EC%A4%80"
+      "title": "전두환",
+      "description": "대한민국의 제11·12대 대통령 (1931–2021)",
+      "views": 4792,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%91%90%ED%99%98"
     },
     {
       "rank": 9,
-      "title": "이상미 (배우)",
-      "description": "대한민국의 배우",
-      "views": 2140,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%81%EB%AF%B8_(%EB%B0%B0%EC%9A%B0)"
+      "title": "라이어 (2026년 드라마)",
+      "description": "2026년 드라마",
+      "views": 4513,
+      "url": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%96%B4_(2026%EB%85%84_%EB%93%9C%EB%9D%BC%EB%A7%88)"
     },
     {
       "rank": 10,
-      "title": "연합뉴스",
-      "description": "대한민국의 국가 기간 뉴스 통신사",
-      "views": 2103,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4"
+      "title": "서승현 (1943년)",
+      "description": "대한민국의 배우",
+      "views": 4488,
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%8A%B9%ED%98%84_(1943%EB%85%84)"
     }
   ],
   "image": {
-    "title": "File:Graveyard 27x39 ENGLISH.png",
-    "description": "MACS 2129-1 Galactic Graveyard: \"This chillingly haunted galaxy mysteriously stopped making stars only a few billion years after the Big Bang! It became a cosmic cemetery, illuminated by the red glow of decaying stars. Dare to enter, and you might encounter the frightening corpses of exoplanets or the final death throes of once-mighty stars.\" NASA Exoplanet Exploration Halloween poster 2020.",
-    "artist": "NASA-JPL/Caltech",
-    "license": "Public domain",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Graveyard_27x39_ENGLISH.png",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Graveyard_27x39_ENGLISH.png/960px-Graveyard_27x39_ENGLISH.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg",
+    "description": "The twelve stained-glass windows of the Església Santa Margalida (Santa Margalida, Majorca, Spain) depicting twelve saints. Today is All Saints' Day.",
+    "artist": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg/960px-Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다.",
