@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-01",
-  "fetched_at": "2026-11-01T04:10:45+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/01",
+  "date": "2026-11-02",
+  "fetched_at": "2026-11-02T04:26:31+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/02",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-10-30",
+  "mostread_date": "2026-10-31",
   "mostread": [
     {
       "rank": 1,
-      "title": "최불암",
-      "description": "대한민국의 배우 (1939–2026)",
-      "views": 18477,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%B6%88%EC%95%94"
-    },
-    {
-      "rank": 2,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 11602,
+      "views": 10425,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
-      "rank": 3,
-      "title": "김민자",
-      "description": "",
-      "views": 9996,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%9E%90"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 8618,
+      "views": 9766,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
+      "rank": 3,
+      "title": "최불암",
+      "description": "대한민국의 배우 (1939–2026)",
+      "views": 9662,
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%B6%88%EC%95%94"
+    },
+    {
+      "rank": 4,
+      "title": "김민자",
+      "description": "",
+      "views": 7722,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%9E%90"
+    },
+    {
       "rank": 5,
-      "title": "차예련",
-      "description": "대한민국의 배우",
-      "views": 6239,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%98%88%EB%A0%A8"
+      "title": "라이어 (2026년 드라마)",
+      "description": "2026년 드라마",
+      "views": 7261,
+      "url": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%96%B4_(2026%EB%85%84_%EB%93%9C%EB%9D%BC%EB%A7%88)"
     },
     {
       "rank": 6,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 5860,
+      "views": 6053,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 7,
-      "title": "김소원 (1935년)",
+      "title": "오지명",
       "description": "대한민국의 배우",
-      "views": 5254,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%86%8C%EC%9B%90_(1935%EB%85%84)"
+      "views": 5646,
+      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%A7%80%EB%AA%85"
     },
     {
       "rank": 8,
-      "title": "전두환",
-      "description": "대한민국의 제11·12대 대통령 (1931–2021)",
-      "views": 4792,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%91%90%ED%99%98"
+      "title": "서승현 (1943년)",
+      "description": "대한민국의 배우",
+      "views": 3743,
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%8A%B9%ED%98%84_(1943%EB%85%84)"
     },
     {
       "rank": 9,
-      "title": "라이어 (2026년 드라마)",
-      "description": "2026년 드라마",
-      "views": 4513,
-      "url": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%96%B4_(2026%EB%85%84_%EB%93%9C%EB%9D%BC%EB%A7%88)"
+      "title": "김소원 (1935년)",
+      "description": "대한민국의 배우",
+      "views": 3607,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%86%8C%EC%9B%90_(1935%EB%85%84)"
     },
     {
       "rank": 10,
-      "title": "서승현 (1943년)",
-      "description": "대한민국의 배우",
-      "views": 4488,
-      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%8A%B9%ED%98%84_(1943%EB%85%84)"
+      "title": "라이어 (TV 시리즈)",
+      "description": "",
+      "views": 3595,
+      "url": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%96%B4_(TV_%EC%8B%9C%EB%A6%AC%EC%A6%88)"
     }
   ],
   "image": {
-    "title": "File:Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg",
-    "description": "The twelve stained-glass windows of the Església Santa Margalida (Santa Margalida, Majorca, Spain) depicting twelve saints. Today is All Saints' Day.",
-    "artist": "H. Zell",
-    "license": "CC BY-SA 3.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg/960px-Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Saint-Charles Cemetery 05.jpg",
+    "description": "Saint-Charles Cemetery is the largest cemetery in Quebec City. Today is All Souls' Day.",
+    "artist": "Wilfredor",
+    "license": "CC0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Snow-covered_Saint-Charles_Cemetery_6.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Snow-covered_Saint-Charles_Cemetery_6.jpg/960px-Snow-covered_Saint-Charles_Cemetery_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다.",
