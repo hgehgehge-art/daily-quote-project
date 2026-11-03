@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-03",
-  "fetched_at": "2026-11-03T08:02:23+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/03",
+  "date": "2026-11-04",
+  "fetched_at": "2026-11-04T05:50:50+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/04",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-01",
+  "mostread_date": "2026-11-02",
   "mostread": [
     {
       "rank": 1,
-      "title": "회음",
-      "description": "",
-      "views": 18539,
-      "url": "https://ko.wikipedia.org/wiki/%ED%9A%8C%EC%9D%8C"
-    },
-    {
-      "rank": 2,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 13112,
+      "views": 14312,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
-      "rank": 3,
-      "title": "대음순",
-      "description": "",
-      "views": 11377,
-      "url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9D%8C%EC%88%9C"
-    },
-    {
-      "rank": 4,
-      "title": "여성 사정",
-      "description": "오르가슴에 도달했을 때 액체를 분출하는 현상",
-      "views": 11274,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%84%B1_%EC%82%AC%EC%A0%95"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 10756,
+      "views": 9657,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "최불암",
       "description": "대한민국의 배우 (1939–2026)",
-      "views": 7432,
+      "views": 8478,
       "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%B6%88%EC%95%94"
     },
     {
-      "rank": 7,
-      "title": "정애연",
-      "description": "",
-      "views": 7009,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%95%A0%EC%97%B0"
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "김민자",
       "description": "",
-      "views": 6247,
+      "views": 6931,
       "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%9E%90"
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "title": "서승현 (1943년)",
+      "description": "대한민국의 배우",
+      "views": 4520,
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%8A%B9%ED%98%84_(1943%EB%85%84)"
+    },
+    {
+      "rank": 6,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 5865,
+      "views": 4405,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
-      "rank": 10,
-      "title": "김진근",
+      "rank": 7,
+      "title": "김소원 (1935년)",
       "description": "대한민국의 배우",
-      "views": 4985,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%84%EA%B7%BC"
+      "views": 3649,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%86%8C%EC%9B%90_(1935%EB%85%84)"
+    },
+    {
+      "rank": 8,
+      "title": "9·11 테러",
+      "description": "2001년 9월 11일에 미국을 노린 테러 공격",
+      "views": 3351,
+      "url": "https://ko.wikipedia.org/wiki/9%C2%B711_%ED%85%8C%EB%9F%AC"
+    },
+    {
+      "rank": 9,
+      "title": "차예련",
+      "description": "대한민국의 배우",
+      "views": 3155,
+      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%98%88%EB%A0%A8"
+    },
+    {
+      "rank": 10,
+      "title": "박진영 (1994년)",
+      "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
+      "views": 2914,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
     }
   ],
   "image": {
-    "title": "File:Pez ballesta ondulado (Balistapus undulatus), mar Rojo, Egipto, 2023-04-15, DD 45.jpg",
-    "description": "Orange-lined triggerfish (Balistapus undulatus), Red Sea, Egypt. This demersal triggerfish has a maximum body size of about 30 centimetres (12 in) and is found across the Indo-western Pacific East Africa, Red Sea and Japan, typically in coral reefs ecosystems, coral lagoons, and external reef slopes within this area. Within coral reefs, the orange-lined triggerfish are more versatile than other triggerfish species and can be found at depths up to 50 metres (160 ft), although studies have found that they prefer depths of 2 to 8 metres (6 ft 7 in to 26 ft 3 in). It's an omnivorous feeder that can, because of its strong and heavy teeth, tackle a variety of benthic prey like cnidarians, molluscs, ctenophores, crustaceans, other fish, algae, and echinoderms. This species in particular, given its broad diet and distribution, is a crucial component in coral reef ecosystems through top-down control and especially through consumption of sea-urchin.",
-    "artist": "Diego Delso",
-    "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Pez_ballesta_ondulado_(Balistapus_undulatus),_mar_Rojo,_Egipto,_2023-04-15,_DD_45.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg/960px-Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Swing into books, Book week, November 1-7, 1964.jpg",
+    "description": "Swing into books. Book week, November 1-7, 1964.",
+    "artist": "Bruno Munari, artist",
+    "license": "Public domain",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Swing_into_books,_Book_week,_November_1-7,_1964.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Swing_into_books%2C_Book_week%2C_November_1-7%2C_1964.jpg/960px-Swing_into_books%2C_Book_week%2C_November_1-7%2C_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다. (MVP 윌리엄 콘트레라스 (사진))",
