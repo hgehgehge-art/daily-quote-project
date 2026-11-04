@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-04",
-  "fetched_at": "2026-11-04T05:50:50+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/04",
+  "date": "2026-11-05",
+  "fetched_at": "2026-11-05T06:10:32+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/05",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-02",
+  "mostread_date": "2026-11-03",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 14312,
+      "views": 14142,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 9657,
+      "views": 9672,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
-      "title": "최불암",
-      "description": "대한민국의 배우 (1939–2026)",
-      "views": 8478,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%B6%88%EC%95%94"
+      "title": "미국의 중간선거",
+      "description": "",
+      "views": 6901,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0"
     },
     {
       "rank": 4,
-      "title": "김민자",
-      "description": "",
-      "views": 6931,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%9E%90"
-    },
-    {
-      "rank": 5,
-      "title": "서승현 (1943년)",
-      "description": "대한민국의 배우",
-      "views": 4520,
-      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%8A%B9%ED%98%84_(1943%EB%85%84)"
-    },
-    {
-      "rank": 6,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 4405,
+      "views": 4483,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
-      "rank": 7,
-      "title": "김소원 (1935년)",
-      "description": "대한민국의 배우",
-      "views": 3649,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%86%8C%EC%9B%90_(1935%EB%85%84)"
+      "rank": 5,
+      "title": "김민자",
+      "description": "",
+      "views": 3675,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%9E%90"
     },
     {
-      "rank": 8,
-      "title": "9·11 테러",
-      "description": "2001년 9월 11일에 미국을 노린 테러 공격",
-      "views": 3351,
-      "url": "https://ko.wikipedia.org/wiki/9%C2%B711_%ED%85%8C%EB%9F%AC"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "차예련",
       "description": "대한민국의 배우",
-      "views": 3155,
+      "views": 3394,
       "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%98%88%EB%A0%A8"
     },
     {
+      "rank": 7,
+      "title": "최불암",
+      "description": "대한민국의 배우 (1939–2026)",
+      "views": 3347,
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%B6%88%EC%95%94"
+    },
+    {
+      "rank": 8,
+      "title": "2026년 미국 선거",
+      "description": "",
+      "views": 2916,
+      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EB%AF%B8%EA%B5%AD_%EC%84%A0%EA%B1%B0"
+    },
+    {
+      "rank": 9,
+      "title": "9·11 테러",
+      "description": "2001년 9월 11일에 미국을 노린 테러 공격",
+      "views": 2804,
+      "url": "https://ko.wikipedia.org/wiki/9%C2%B711_%ED%85%8C%EB%9F%AC"
+    },
+    {
       "rank": 10,
-      "title": "박진영 (1994년)",
-      "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
-      "views": 2914,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
+      "title": "연합뉴스",
+      "description": "대한민국의 국가 기간 뉴스 통신사",
+      "views": 2568,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4"
     }
   ],
   "image": {
-    "title": "File:Swing into books, Book week, November 1-7, 1964.jpg",
-    "description": "Swing into books. Book week, November 1-7, 1964.",
-    "artist": "Bruno Munari, artist",
-    "license": "Public domain",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Swing_into_books,_Book_week,_November_1-7,_1964.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Swing_into_books%2C_Book_week%2C_November_1-7%2C_1964.jpg/960px-Swing_into_books%2C_Book_week%2C_November_1-7%2C_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Norderney, Dünenlandschaft, Wegweiser -- 2025 -- 9437.jpg",
+    "description": "Dune landscape with fingerpost (to the wreck) in the Lower Saxony Wadden Sea National Park, Norderney, Lower Saxony, Germany",
+    "artist": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Norderney,_D%C3%BCnenlandschaft,_Wegweiser_--_2025_--_9437.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg/960px-Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다. (MVP 윌리엄 콘트레라스 (사진))",
