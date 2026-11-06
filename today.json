@@ -1,95 +1,94 @@
 {
-  "date": "2026-11-06",
-  "fetched_at": "2026-11-06T06:24:28+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/06",
+  "date": "2026-11-07",
+  "fetched_at": "2026-11-07T05:46:15+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/07",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-04",
+  "mostread_date": "2026-11-05",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 17496,
+      "views": 14453,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
-      "title": "미국의 중간선거",
-      "description": "",
-      "views": 13082,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0"
-    },
-    {
-      "rank": 3,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 9383,
+      "views": 7966,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
-      "rank": 4,
-      "title": "2026년 미국 선거",
-      "description": "",
-      "views": 5497,
-      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EB%AF%B8%EA%B5%AD_%EC%84%A0%EA%B1%B0"
-    },
-    {
-      "rank": 5,
-      "title": "미국 상원",
-      "description": "미국 의회의 상원",
-      "views": 4413,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%EC%83%81%EC%9B%90"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 4331,
+      "views": 4624,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
+      "rank": 4,
+      "title": "미국의 중간선거",
+      "description": "",
+      "views": 4404,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0"
+    },
+    {
+      "rank": 5,
+      "title": "김태연 (배우)",
+      "description": "대한민국의 여배우 (1976년 출생)",
+      "views": 2419,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%83%9C%EC%97%B0_(%EB%B0%B0%EC%9A%B0)"
+    },
+    {
+      "rank": 6,
+      "title": "연합뉴스",
+      "description": "대한민국의 국가 기간 뉴스 통신사",
+      "views": 2206,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4"
+    },
+    {
       "rank": 7,
-      "title": "국립경국대학교",
-      "description": "대한민국 경상북도의 국립 종합대학",
-      "views": 3761,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B2%BD%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90"
+      "title": "차예련",
+      "description": "대한민국의 배우",
+      "views": 2184,
+      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%98%88%EB%A0%A8"
     },
     {
       "rank": 8,
-      "title": "도널드 트럼프",
-      "description": "미국의 제45, 47대 대통령",
-      "views": 3439,
-      "url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%84%90%EB%93%9C_%ED%8A%B8%EB%9F%BC%ED%94%84"
+      "title": "2026년 미국 선거",
+      "description": "",
+      "views": 1958,
+      "url": "https://ko.wikipedia.org/wiki/2026%EB%85%84_%EB%AF%B8%EA%B5%AD_%EC%84%A0%EA%B1%B0"
     },
     {
       "rank": 9,
-      "title": "미국 의회",
-      "description": "미국의 양원제 입법부",
-      "views": 2556,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%EC%9D%98%ED%9A%8C"
+      "title": "9·11 테러",
+      "description": "2001년 9월 11일에 미국을 노린 테러 공격",
+      "views": 1815,
+      "url": "https://ko.wikipedia.org/wiki/9%C2%B711_%ED%85%8C%EB%9F%AC"
     },
     {
       "rank": 10,
-      "title": "차예련",
-      "description": "대한민국의 배우",
-      "views": 2415,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%98%88%EB%A0%A8"
+      "title": "재혼 황후",
+      "description": "",
+      "views": 1690,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%AC%ED%98%BC_%ED%99%A9%ED%9B%84"
     }
   ],
   "image": {
-    "title": "File:Common wombat (Vombatus ursinus tasmaniensis) juvenile Maria Island.jpg",
-    "description": "Common wombat (Vombatus ursinus tasmaniensis) juvenile on Maria Island, Tasmania, Australia",
-    "artist": "Charles J. Sharp",
+    "title": "File:Aekingerzand Nationaal Park Drents-Friese Wold. 11-08-2025. (actm.) 10.jpg",
+    "description": "Aekingerzand Drents-Friese Wold National Park. Pinus sylvestris on the sand drift.",
+    "artist": "Agnes Monkelbaan",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Common_wombat_(Vombatus_ursinus_tasmaniensis)_juvenile_Maria_Island.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg/960px-Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._(actm.)_10.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg/960px-Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 5일, 2026년 미국 선거에서 민주당이 압승을 거두고 상하원 과반수 의석을 확보했다.",
-    "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다. (MVP 윌리엄 콘트레라스 (사진))",
+    "11월 3일, 스페인의 축구 선수 헤수스 데 미겔 (사진)이 경기장에서 헤수스 우오노와 충돌하며 입은 심장 타박상으로 사망했다.",
+    "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다.",
     "10월 28일, 스페인 톨레도도에서 일어난 열차 충돌 사고로 최소한 69명이 사망하였다.",
-    "10월 25일, 브라질 총선에서 자유당이 브라질 국민회의의 양원 모두에서 다수 의석을 유지한 동안 루이스 이나시우 룰라 다 시우바가 대통령으로 재선되었다.",
-    "10월 21일, PHP2Shell 취약점이 공개되었다. 이후 대형 사이버보안 취약점들의 공개가 이어지고 있다 (검은 10월).",
-    "11월 3일, 스페인의 축구 선수 헤수스 데 미겔이 경기장에서 헤수스 우오노와 충돌하며 입은 심장 타박상으로 사망했다."
+    "10월 25일, 브라질 총선에서 자유당이 브라질 국민회의의 양원 모두에서 다수 의석을 유지한 동안 루이스 이나시우 룰라 다 시우바가 대통령으로 재선되었다."
   ]
 }
