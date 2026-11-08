@@ -1,88 +1,17 @@
 {
-  "date": "2026-11-08",
-  "fetched_at": "2026-11-08T04:18:25+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/08",
+  "date": "2026-11-09",
+  "fetched_at": "2026-11-09T04:26:41+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/09",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-06",
-  "mostread": [
-    {
-      "rank": 1,
-      "title": "문화방송",
-      "description": "대한민국의 지상파 방송사",
-      "views": 12069,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
-    },
-    {
-      "rank": 2,
-      "title": "한국방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 7830,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 3,
-      "title": "서킷브레이커 (주식 시장)",
-      "description": "주식의 급격한 가격 하락시에 시장 진정을 위하여 일시적으로 매매를 정지를 시키는 것",
-      "views": 4899,
-      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%ED%82%B7%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4_(%EC%A3%BC%EC%8B%9D_%EC%8B%9C%EC%9E%A5)"
-    },
-    {
-      "rank": 4,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 4885,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 5,
-      "title": "조진웅",
-      "description": "대한민국의 전 배우",
-      "views": 2970,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A7%84%EC%9B%85"
-    },
-    {
-      "rank": 6,
-      "title": "이태성",
-      "description": "대한민국의 배우",
-      "views": 2367,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%84%B1"
-    },
-    {
-      "rank": 7,
-      "title": "라이어 (2026년 드라마)",
-      "description": "2026년 드라마",
-      "views": 1841,
-      "url": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%96%B4_(2026%EB%85%84_%EB%93%9C%EB%9D%BC%EB%A7%88)"
-    },
-    {
-      "rank": 8,
-      "title": "정우연 (배우)",
-      "description": "대한민국의 가수, 배우, 모델",
-      "views": 1789,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9A%B0%EC%97%B0_(%EB%B0%B0%EC%9A%B0)"
-    },
-    {
-      "rank": 9,
-      "title": "차예련",
-      "description": "대한민국의 배우",
-      "views": 1727,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%98%88%EB%A0%A8"
-    },
-    {
-      "rank": 10,
-      "title": "이진희 (배우)",
-      "description": "대한민국의 배우",
-      "views": 1650,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%ED%9D%AC_(%EB%B0%B0%EC%9A%B0)"
-    }
-  ],
+  "mostread_date": "",
+  "mostread": [],
   "image": {
-    "title": "File:002 Asian green bee-eaters in Keoladeo National Park Photo by Giles Laurent.jpg",
-    "description": "Asian green bee-eater (Merops orientalis orientalis) couple in Keoladeo National Park, India",
-    "artist": "Giles Laurent",
+    "title": "File:Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg",
+    "description": "Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.",
+    "artist": "Original: Harshit SR Derivative work: UnpetitproleX",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/960px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 5일, 2026년 미국 선거에서 민주당이 압승을 거두고 상하원 과반수 의석을 확보했다.",
