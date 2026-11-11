@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-11",
-  "fetched_at": "2026-11-11T06:14:27+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/11",
+  "date": "2026-11-12",
+  "fetched_at": "2026-11-12T06:48:49+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/12",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-09",
+  "mostread_date": "2026-11-10",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 12809,
+      "views": 13918,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "젠슨 황",
       "description": "대만계 미국인 기업가 및 비즈니스맨. 엔비디아의 설립자이자 CEO",
-      "views": 12485,
+      "views": 9653,
       "url": "https://ko.wikipedia.org/wiki/%EC%A0%A0%EC%8A%A8_%ED%99%A9"
     },
     {
       "rank": 3,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 7601,
+      "views": 9244,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 5458,
+      "views": 5296,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 5,
-      "title": "이진희 (배우)",
-      "description": "대한민국의 배우",
-      "views": 2832,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%ED%9D%AC_(%EB%B0%B0%EC%9A%B0)"
+      "title": "지수 (가수)",
+      "description": "대한민국의 여자 가수",
+      "views": 3083,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EC%88%98_(%EA%B0%80%EC%88%98)"
     },
     {
       "rank": 6,
-      "title": "황우석",
-      "description": "대한민국 태생의 아랍에미리트의 과학자",
-      "views": 2751,
-      "url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%9A%B0%EC%84%9D"
-    },
-    {
-      "rank": 7,
       "title": "엔비디아",
       "description": "미국의 반도체 제조 기업",
-      "views": 2538,
+      "views": 2299,
       "url": "https://ko.wikipedia.org/wiki/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84"
     },
     {
-      "rank": 8,
-      "title": "리라아트고등학교",
-      "description": "대한민국의 사립고등학교",
-      "views": 2413,
-      "url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%9D%BC%EC%95%84%ED%8A%B8%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90"
+      "rank": 7,
+      "title": "조성호 (범죄인)",
+      "description": "",
+      "views": 1961,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%B1%ED%98%B8_(%EB%B2%94%EC%A3%84%EC%9D%B8)"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "박진영 (1994년)",
       "description": "대한민국의 가수, 배우 (1994년 9월 22일)",
-      "views": 1801,
+      "views": 1654,
       "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EC%98%81_(1994%EB%85%84)"
     },
     {
+      "rank": 9,
+      "title": "정승제",
+      "description": "대한민국의 수학 강사, 방송인",
+      "views": 1598,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%8A%B9%EC%A0%9C"
+    },
+    {
       "rank": 10,
-      "title": "지수 (가수)",
-      "description": "대한민국의 여자 가수",
-      "views": 1702,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EC%88%98_(%EA%B0%80%EC%88%98)"
+      "title": "안판석",
+      "description": "대한민국의 연출가, 영화감독 (1961–2026)",
+      "views": 1420,
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%ED%8C%90%EC%84%9D"
     }
   ],
   "image": {
-    "title": "File:Kościelec view 2.jpg",
-    "description": "Panoramic view towards Świnica from Kościelec, Tatra National Park, Zakopane. Today is Poland's National Independence Day.",
-    "artist": "kallerna",
-    "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcielec_view_2.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ko%C5%9Bcielec_view_2.jpg/960px-Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg",
+    "description": "50 Korun banknote of Czechoslovakia, issued in 1929 by the National Bank of Czechoslovakia",
+    "artist": "National Museum of American History",
+    "license": "Public domain",
+    "file_page": "https://commons.wikimedia.org/wiki/File:CZE-22-Czechoslovak_National_Bank-50_Korun_(1929).jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg/960px-CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 7일, 폴란드 크라쿠프의 중앙시장광장 (사진)에서 총기 난사 사건이 일어나 최소한 6명이 사망하고 다른 16명이 부상을 당했다.",
