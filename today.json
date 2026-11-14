@@ -1,88 +1,17 @@
 {
-  "date": "2026-11-14",
-  "fetched_at": "2026-11-14T06:19:45+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/14",
+  "date": "2026-11-15",
+  "fetched_at": "2026-11-15T04:49:51+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/15",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-12",
-  "mostread": [
-    {
-      "rank": 1,
-      "title": "문화방송",
-      "description": "대한민국의 지상파 방송사",
-      "views": 14625,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
-    },
-    {
-      "rank": 2,
-      "title": "젠슨 황",
-      "description": "대만계 미국인 기업가 및 비즈니스맨. 엔비디아의 설립자이자 CEO",
-      "views": 13764,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A0%A0%EC%8A%A8_%ED%99%A9"
-    },
-    {
-      "rank": 3,
-      "title": "한국방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 9189,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 4,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 6008,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 5,
-      "title": "엔비디아",
-      "description": "미국의 반도체 제조 기업",
-      "views": 4387,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84"
-    },
-    {
-      "rank": 6,
-      "title": "이재용",
-      "description": "대한민국의 기업인",
-      "views": 2217,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%AC%EC%9A%A9"
-    },
-    {
-      "rank": 7,
-      "title": "김승우",
-      "description": "대한민국의 배우",
-      "views": 1674,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%8A%B9%EC%9A%B0"
-    },
-    {
-      "rank": 8,
-      "title": "박희승",
-      "description": "",
-      "views": 1581,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%ED%9D%AC%EC%8A%B9"
-    },
-    {
-      "rank": 9,
-      "title": "아시아 프로야구 챔피언십",
-      "description": "",
-      "views": 1503,
-      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8B%9C%EC%95%84_%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC_%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD"
-    },
-    {
-      "rank": 10,
-      "title": "최민희 (1960년)",
-      "description": "대한민국의 언론인, 정치인",
-      "views": 1318,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%AF%BC%ED%9D%AC_(1960%EB%85%84)"
-    }
-  ],
+  "mostread_date": "",
+  "mostread": [],
   "image": {
-    "title": "File:Eastern quoll (Dasyurus viverrinus) fawn morph Esk Valley.jpg",
-    "description": "Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.",
-    "artist": "Charles J. Sharp",
+    "title": "File:Mirador del Velo de Novia, Seixal, Madeira, Portugal, 2019-05-30, DD 67.jpg",
+    "description": "Véu da Noiva Waterfall, Seixal, Madeira, Portugal",
+    "artist": "Diego Delso",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Eastern_quoll_(Dasyurus_viverrinus)_fawn_morph_Esk_Valley.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/960px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_67.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg/960px-Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 7일, 폴란드 크라쿠프의 중앙시장광장 (사진)에서 총기 난사 사건이 일어나 최소한 6명이 사망하고 다른 16명이 부상을 당했다.",
