@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-19",
-  "fetched_at": "2026-11-19T07:30:46+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/19",
+  "date": "2026-11-20",
+  "fetched_at": "2026-11-20T07:37:21+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/20",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-17",
+  "mostread_date": "2026-11-18",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 17026,
+      "views": 19140,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 10119,
+      "views": 10745,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 5141,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 4,
       "title": "태종무열왕",
       "description": "신라의 제29대 군주 (603–661)",
-      "views": 4670,
+      "views": 4712,
       "url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%AC%B4%EC%97%B4%EC%99%95"
     },
     {
+      "rank": 4,
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 4414,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
       "rank": 5,
-      "title": "김주혁",
-      "description": "대한민국의 배우 (1972–2017)",
-      "views": 3990,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A3%BC%ED%98%81"
-    },
-    {
-      "rank": 6,
-      "title": "연개소문",
-      "description": "고구려의 관료 (?–665)",
-      "views": 3350,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B0%9C%EC%86%8C%EB%AC%B8"
-    },
-    {
-      "rank": 7,
-      "title": "한성숙",
-      "description": "대한민국의 제50대 국무총리",
-      "views": 3006,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%84%B1%EC%88%99"
-    },
-    {
-      "rank": 8,
       "title": "문무왕",
       "description": "신라 제30대 국왕 (626–681)",
-      "views": 2541,
+      "views": 2942,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4%EC%99%95"
     },
     {
+      "rank": 6,
+      "title": "김종철 (경찰공무원)",
+      "description": "",
+      "views": 2524,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A2%85%EC%B2%A0_(%EA%B2%BD%EC%B0%B0%EA%B3%B5%EB%AC%B4%EC%9B%90)"
+    },
+    {
+      "rank": 7,
+      "title": "김주혁",
+      "description": "대한민국의 배우 (1972–2017)",
+      "views": 2141,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A3%BC%ED%98%81"
+    },
+    {
+      "rank": 8,
+      "title": "한한령",
+      "description": "중국인들이 한국과 관련된 한류 컨텐츠를 제한하는 것 외에도, 한국에 대한 이미지를 멀리하도록 하는 조치령",
+      "views": 2082,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%95%9C%EB%A0%B9"
+    },
+    {
       "rank": 9,
-      "title": "최교진",
-      "description": "대한민국의 교육인",
-      "views": 1954,
-      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EA%B5%90%EC%A7%84"
+      "title": "연개소문",
+      "description": "고구려의 관료 (?–665)",
+      "views": 2040,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B0%9C%EC%86%8C%EB%AC%B8"
     },
     {
       "rank": 10,
       "title": "문무",
       "description": "",
-      "views": 1916,
+      "views": 1855,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4"
     }
   ],
   "image": {
-    "title": "File:008 Eurasian hoopoe eating in Keoladeo National Park Photo by Giles Laurent.jpg",
-    "description": "Eurasian hoopoe (Upupa epops) eating in Keoladeo National Park, India",
-    "artist": "Giles Laurent",
+    "title": "File:Andiast-Breil-Brigels. 24-09-2025. (d.j.b.) 08.jpg",
+    "description": "Trail from Andiast to Breil-Brigels. Bad weather in the Breil-Brigels region, but it has now dried up.",
+    "artist": "Dominicus Johannes Bergsma.",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Andiast-Breil-Brigels._24-09-2025._(d.j.b.)_08.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg/960px-Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
-    "11월 29일, 엔비디아 최고경영자 젠슨 황 (사진)이 중국 스파이의 포섭 대상이 되었다는 의혹과 불륜설이 제기되는 가운데 사임하였다.",
+    "11월 12일, 엔비디아 최고경영자 젠슨 황 (사진)이 중국 스파이의 포섭 대상이 되었다는 의혹과 불륜설이 제기되는 가운데 사임하였다.",
     "11월 7일, 폴란드 크라쿠프의 중앙시장광장에서 총기 난사 사건이 일어나 최소한 6명이 사망하고 다른 16명이 부상을 당했다.",
     "11월 5일, 2026년 미국 선거에서 민주당이 압승을 거두고 상하원 과반수 의석을 확보했다.",
     "11월 3일, 스페인의 축구 선수 헤수스 데 미겔이 경기장에서 헤수스 우오노와 충돌하며 입은 심장 타박상으로 사망했다.",
