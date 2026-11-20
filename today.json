@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-20",
-  "fetched_at": "2026-11-20T07:37:21+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/20",
+  "date": "2026-11-21",
+  "fetched_at": "2026-11-21T07:11:23+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/21",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-18",
+  "mostread_date": "2026-11-19",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 19140,
+      "views": 26201,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
-      "title": "한국방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 10745,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "title": "리트 (인터넷)",
+      "description": "",
+      "views": 19212,
+      "url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%ED%8A%B8_(%EC%9D%B8%ED%84%B0%EB%84%B7)"
     },
     {
       "rank": 3,
-      "title": "태종무열왕",
-      "description": "신라의 제29대 군주 (603–661)",
-      "views": 4712,
-      "url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%AC%B4%EC%97%B4%EC%99%95"
+      "title": "한국방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 13260,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 4414,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "title": "오경미",
+      "description": "대한민국의 법관",
+      "views": 13153,
+      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EA%B2%BD%EB%AF%B8"
     },
     {
       "rank": 5,
-      "title": "문무왕",
-      "description": "신라 제30대 국왕 (626–681)",
-      "views": 2942,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4%EC%99%95"
+      "title": "파기환송",
+      "description": "상소심 법원이 종국판결에서 원심 판결을 파기한 경우에 사건을 다시 심판하도록 원심 법원으로 돌려보내는 것",
+      "views": 8632,
+      "url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EA%B8%B0%ED%99%98%EC%86%A1"
     },
     {
       "rank": 6,
-      "title": "김종철 (경찰공무원)",
-      "description": "",
-      "views": 2524,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A2%85%EC%B2%A0_(%EA%B2%BD%EC%B0%B0%EA%B3%B5%EB%AC%B4%EC%9B%90)"
+      "title": "앤트로픽",
+      "description": "미국의 인공지능 업체",
+      "views": 7859,
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD"
     },
     {
       "rank": 7,
-      "title": "김주혁",
-      "description": "대한민국의 배우 (1972–2017)",
-      "views": 2141,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A3%BC%ED%98%81"
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 4278,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 8,
-      "title": "한한령",
-      "description": "중국인들이 한국과 관련된 한류 컨텐츠를 제한하는 것 외에도, 한국에 대한 이미지를 멀리하도록 하는 조치령",
-      "views": 2082,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%95%9C%EB%A0%B9"
+      "title": "박찬종",
+      "description": "대한민국의 정치인",
+      "views": 4219,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%B0%AC%EC%A2%85"
     },
     {
       "rank": 9,
-      "title": "연개소문",
-      "description": "고구려의 관료 (?–665)",
-      "views": 2040,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B0%9C%EC%86%8C%EB%AC%B8"
+      "title": "이진우 (배우)",
+      "description": "대한민국의 배우",
+      "views": 3238,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EC%9A%B0_(%EB%B0%B0%EC%9A%B0)"
     },
     {
       "rank": 10,
-      "title": "문무",
-      "description": "",
-      "views": 1855,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4"
+      "title": "법학적성시험",
+      "description": "로스쿨 진학하기 위해 시험제도",
+      "views": 3021,
+      "url": "https://ko.wikipedia.org/wiki/%EB%B2%95%ED%95%99%EC%A0%81%EC%84%B1%EC%8B%9C%ED%97%98"
     }
   ],
   "image": {
-    "title": "File:Andiast-Breil-Brigels. 24-09-2025. (d.j.b.) 08.jpg",
-    "description": "Trail from Andiast to Breil-Brigels. Bad weather in the Breil-Brigels region, but it has now dried up.",
-    "artist": "Dominicus Johannes Bergsma.",
-    "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Andiast-Breil-Brigels._24-09-2025._(d.j.b.)_08.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg/960px-Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Starburst in NGC 4449 (captured by the Hubble Space Telescope).jpg",
+    "description": "Hundreds of thousands of vibrant blue and red stars blaze in this image of the Magellanic spiral starburst galaxy NGC 4449 taken by NASA's Hubble Space Telescope. Hot bluish-white clusters of massive stars are scattered throughout the galaxy, interspersed with numerous dustier, reddish regions of current star formation. Massive dark clouds of gas and dust are silhouetted against the starlight.",
+    "artist": "NASA, ESA, A. Aloisi (STScI/ESA), and The Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration",
+    "license": "Public domain",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Starburst_in_NGC_4449_(captured_by_the_Hubble_Space_Telescope).jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg/960px-Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 12일, 엔비디아 최고경영자 젠슨 황 (사진)이 중국 스파이의 포섭 대상이 되었다는 의혹과 불륜설이 제기되는 가운데 사임하였다.",
