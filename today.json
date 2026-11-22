@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-22",
-  "fetched_at": "2026-11-22T05:51:14+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/22",
+  "date": "2026-11-23",
+  "fetched_at": "2026-11-23T05:58:11+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/23",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-20",
+  "mostread_date": "2026-11-21",
   "mostread": [
     {
       "rank": 1,
-      "title": "문화방송",
-      "description": "대한민국의 지상파 방송사",
-      "views": 14214,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+      "title": "장미화 (가수)",
+      "description": "",
+      "views": 13280,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EB%AF%B8%ED%99%94_(%EA%B0%80%EC%88%98)"
     },
     {
       "rank": 2,
-      "title": "한국방송공사",
+      "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 9408,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "views": 13269,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 3,
-      "title": "오경미",
-      "description": "대한민국의 법관",
-      "views": 7673,
-      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EA%B2%BD%EB%AF%B8"
+      "title": "한국방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 9425,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
-      "title": "앤트로픽",
-      "description": "미국의 인공지능 업체",
-      "views": 5993,
-      "url": "https://ko.wikipedia.org/wiki/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD"
+      "title": "윤항기",
+      "description": "대한민국의 가수, 작곡가, 개신교 목회자",
+      "views": 9101,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%ED%95%AD%EA%B8%B0"
     },
     {
       "rank": 5,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 4059,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 6,
-      "title": "갤럭시코퍼레이션",
-      "description": "",
-      "views": 3559,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B0%A4%EB%9F%AD%EC%8B%9C%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98"
-    },
-    {
-      "rank": 7,
-      "title": "박찬종",
-      "description": "대한민국의 정치인",
-      "views": 3463,
-      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%B0%AC%EC%A2%85"
-    },
-    {
-      "rank": 8,
       "title": "태종무열왕",
       "description": "신라의 제29대 군주 (603–661)",
-      "views": 2951,
+      "views": 6869,
       "url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%AC%B4%EC%97%B4%EC%99%95"
     },
     {
+      "rank": 6,
+      "title": "문무왕",
+      "description": "신라 제30대 국왕 (626–681)",
+      "views": 5623,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4%EC%99%95"
+    },
+    {
+      "rank": 7,
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 5388,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+    },
+    {
+      "rank": 8,
+      "title": "나잠 수",
+      "description": "",
+      "views": 4034,
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9E%A0_%EC%88%98"
+    },
+    {
       "rank": 9,
-      "title": "엑스러브",
-      "description": "대한민국의 4인조 보이 그룹",
-      "views": 2620,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%91%EC%8A%A4%EB%9F%AC%EB%B8%8C"
+      "title": "임종환",
+      "description": "",
+      "views": 4018,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%A2%85%ED%99%98"
     },
     {
       "rank": 10,
-      "title": "한성숙",
-      "description": "대한민국의 제50대 국무총리",
-      "views": 2396,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%84%B1%EC%88%99"
+      "title": "연개소문",
+      "description": "고구려의 관료 (?–665)",
+      "views": 3970,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B0%9C%EC%86%8C%EB%AC%B8"
     }
   ],
   "image": {
-    "title": "File:Red Avadavat in Baruipur September 2025 by Tisha Mukherjee 06.jpg",
-    "description": "Amandava amandava (Red Avadavat) in Baruipur, West Bengal, India",
-    "artist": "Tisha Mukherjee",
+    "title": "File:Pointe Saint Mathieu - Phare.jpg",
+    "description": "View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France",
+    "artist": "JackyM59",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg/960px-Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
+    "11월 17일, 충청남도 태안군 근흥면 서격열비도 인근에서 해광호 침몰 사고가 발생하였다.",
     "11월 12일, 엔비디아 최고경영자 젠슨 황 (사진)이 중국 스파이의 포섭 대상이 되었다는 의혹과 불륜설이 제기되는 가운데 사임하였다.",
     "11월 7일, 폴란드 크라쿠프의 중앙시장광장에서 총기 난사 사건이 일어나 최소한 6명이 사망하고 다른 16명이 부상을 당했다.",
     "11월 5일, 2026년 미국 선거에서 민주당이 압승을 거두고 상하원 과반수 의석을 확보했다.",
-    "11월 3일, 스페인의 축구 선수 헤수스 데 미겔이 경기장에서 헤수스 우오노와 충돌하며 입은 심장 타박상으로 사망했다.",
-    "10월 28일, 밀워키 브루어스가 탬파베이 레이스를 꺾고 첫 월드 시리즈 우승을 거두었다."
+    "11월 3일, 스페인의 축구 선수 헤수스 데 미겔이 경기장에서 헤수스 우오노와 충돌하며 입은 심장 타박상으로 사망했다."
   ]
 }
