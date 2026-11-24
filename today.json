@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-23",
-  "fetched_at": "2026-11-23T05:58:11+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/23",
+  "date": "2026-11-24",
+  "fetched_at": "2026-11-24T11:04:02+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/24",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-21",
+  "mostread_date": "2026-11-22",
   "mostread": [
     {
       "rank": 1,
-      "title": "장미화 (가수)",
-      "description": "",
-      "views": 13280,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EB%AF%B8%ED%99%94_(%EA%B0%80%EC%88%98)"
+      "title": "문화방송",
+      "description": "대한민국의 지상파 방송사",
+      "views": 14277,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
-      "title": "문화방송",
-      "description": "대한민국의 지상파 방송사",
-      "views": 13269,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+      "title": "태종무열왕",
+      "description": "신라의 제29대 군주 (603–661)",
+      "views": 11885,
+      "url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%AC%B4%EC%97%B4%EC%99%95"
     },
     {
       "rank": 3,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 9425,
+      "views": 9138,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
-      "title": "윤항기",
-      "description": "대한민국의 가수, 작곡가, 개신교 목회자",
-      "views": 9101,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%ED%95%AD%EA%B8%B0"
+      "title": "한국교육방송공사",
+      "description": "대한민국의 지상파 방송사",
+      "views": 5932,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 5,
-      "title": "태종무열왕",
-      "description": "신라의 제29대 군주 (603–661)",
-      "views": 6869,
-      "url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%AC%B4%EC%97%B4%EC%99%95"
+      "title": "연개소문",
+      "description": "고구려의 관료 (?–665)",
+      "views": 5509,
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B0%9C%EC%86%8C%EB%AC%B8"
     },
     {
       "rank": 6,
       "title": "문무왕",
       "description": "신라 제30대 국왕 (626–681)",
-      "views": 5623,
+      "views": 5296,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4%EC%99%95"
     },
     {
       "rank": 7,
-      "title": "한국교육방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 5388,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
+      "title": "최교진",
+      "description": "대한민국의 교육인",
+      "views": 5289,
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EA%B5%90%EC%A7%84"
     },
     {
       "rank": 8,
-      "title": "나잠 수",
+      "title": "문무",
       "description": "",
-      "views": 4034,
-      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9E%A0_%EC%88%98"
+      "views": 3567,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4"
     },
     {
       "rank": 9,
-      "title": "임종환",
-      "description": "",
-      "views": 4018,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%A2%85%ED%99%98"
+      "title": "이혜영 (1971년)",
+      "description": "대한민국의 가수, 배우, 화가, 방송인",
+      "views": 2816,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%98%9C%EC%98%81_(1971%EB%85%84)"
     },
     {
       "rank": 10,
-      "title": "연개소문",
-      "description": "고구려의 관료 (?–665)",
-      "views": 3970,
-      "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B0%9C%EC%86%8C%EB%AC%B8"
+      "title": "나잠 수",
+      "description": "",
+      "views": 2599,
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9E%A0_%EC%88%98"
     }
   ],
   "image": {
-    "title": "File:Pointe Saint Mathieu - Phare.jpg",
-    "description": "View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France",
-    "artist": "JackyM59",
+    "title": "File:South Panorama Taza Morocco Nov25 A7CR 09655-62 PanoC.jpg",
+    "description": "Panorama of the new section of Taza, view from the southwest, looking down from the old city, Fez-Meknes, Morocco",
+    "artist": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg/960px-South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 17일, 충청남도 태안군 근흥면 서격열비도 인근에서 해광호 침몰 사고가 발생하였다.",
