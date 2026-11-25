@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-25",
-  "fetched_at": "2026-11-25T08:48:31+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/25",
+  "date": "2026-11-26",
+  "fetched_at": "2026-11-26T08:31:08+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/26",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-23",
+  "mostread_date": "2026-11-24",
   "mostread": [
     {
       "rank": 1,
-      "title": "한준호 (정치인)",
-      "description": "대한민국의 국회의원(경기 고양시 을)",
-      "views": 17110,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A4%80%ED%98%B8_(%EC%A0%95%EC%B9%98%EC%9D%B8)"
+      "title": "문화방송",
+      "description": "대한민국의 지상파 방송사",
+      "views": 14138,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
-      "title": "문화방송",
+      "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 14600,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+      "views": 9916,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
       "title": "강금실",
       "description": "대한민국의 법조인",
-      "views": 14472,
+      "views": 8533,
       "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B8%88%EC%8B%A4"
     },
     {
       "rank": 4,
-      "title": "한국방송공사",
-      "description": "대한민국의 지상파 방송사",
-      "views": 9863,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
-    },
-    {
-      "rank": 5,
-      "title": "김혜자",
-      "description": "대한민국의 배우",
-      "views": 9381,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%9C%EC%9E%90"
-    },
-    {
-      "rank": 6,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 7026,
+      "views": 6400,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
+      "rank": 5,
+      "title": "한준호 (정치인)",
+      "description": "대한민국의 국회의원(경기 고양시 을)",
+      "views": 5870,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A4%80%ED%98%B8_(%EC%A0%95%EC%B9%98%EC%9D%B8)"
+    },
+    {
+      "rank": 6,
+      "title": "김혜자",
+      "description": "대한민국의 배우",
+      "views": 5601,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%9C%EC%9E%90"
+    },
+    {
       "rank": 7,
-      "title": "태종무열왕",
-      "description": "신라의 제29대 군주 (603–661)",
-      "views": 5654,
-      "url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%AC%B4%EC%97%B4%EC%99%95"
+      "title": "젠슨 황",
+      "description": "대만계 미국인 기업가. 엔비디아의 설립자이자 CEO",
+      "views": 2867,
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%A0%EC%8A%A8_%ED%99%A9"
     },
     {
       "rank": 8,
-      "title": "임웅순",
-      "description": "대한민국의 외교관",
-      "views": 5410,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%9B%85%EC%88%9C"
+      "title": "이찬오 (요리사)",
+      "description": "대한민국의 요리사",
+      "views": 1915,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B0%AC%EC%98%A4_(%EC%9A%94%EB%A6%AC%EC%82%AC)"
     },
     {
       "rank": 9,
-      "title": "강유정 (1975년)",
-      "description": "대한민국의 평론가 겸 이재명 대통령 대변인",
-      "views": 5192,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%9C%A0%EC%A0%95_(1975%EB%85%84)"
+      "title": "우지원",
+      "description": "대한민국의 전 농구선수, 방송인",
+      "views": 1811,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%A7%80%EC%9B%90"
     },
     {
       "rank": 10,
-      "title": "임우재",
-      "description": "대한민국의 기업인",
-      "views": 3231,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%9A%B0%EC%9E%AC"
+      "title": "이용철 (법조인)",
+      "description": "",
+      "views": 1810,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9A%A9%EC%B2%A0_(%EB%B2%95%EC%A1%B0%EC%9D%B8)"
     }
   ],
   "image": {
-    "title": "File:Wredes passage November 2025 01.jpg",
-    "description": "The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the \"Old merchant alley\", Finnish: Vanha kauppakuja, or the \"Grandma tunnel\", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland",
-    "artist": "ArildV",
+    "title": "File:Male wild turkey (Meleagris gallopavo) strutting.jpg",
+    "description": "",
+    "artist": "Frank Schulenburg",
     "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Wredes_passage_November_2025_01.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wredes_passage_November_2025_01.jpg/960px-Wredes_passage_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "file_page": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg/960px-Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 17일, 대한민국 태안군 근흥면 서격열비도 인근에서 해광호 침몰 사고가 발생하였다.",
