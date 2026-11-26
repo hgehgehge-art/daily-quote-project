@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-26",
-  "fetched_at": "2026-11-26T08:31:08+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/26",
+  "date": "2026-11-27",
+  "fetched_at": "2026-11-27T08:37:06+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/27",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-24",
+  "mostread_date": "2026-11-25",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 14138,
+      "views": 14514,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 9916,
+      "views": 9834,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
-      "title": "강금실",
-      "description": "대한민국의 법조인",
-      "views": 8533,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B8%88%EC%8B%A4"
-    },
-    {
-      "rank": 4,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 6400,
+      "views": 6317,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
+      "rank": 4,
+      "title": "강금실",
+      "description": "대한민국의 법조인",
+      "views": 3718,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B8%88%EC%8B%A4"
+    },
+    {
       "rank": 5,
-      "title": "한준호 (정치인)",
-      "description": "대한민국의 국회의원(경기 고양시 을)",
-      "views": 5870,
-      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A4%80%ED%98%B8_(%EC%A0%95%EC%B9%98%EC%9D%B8)"
+      "title": "이연향",
+      "description": "",
+      "views": 3129,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%97%B0%ED%96%A5"
     },
     {
       "rank": 6,
-      "title": "김혜자",
-      "description": "대한민국의 배우",
-      "views": 5601,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%9C%EC%9E%90"
+      "title": "안성기",
+      "description": "대한민국의 배우 (1950–2026)",
+      "views": 3047,
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%84%B1%EA%B8%B0"
     },
     {
       "rank": 7,
-      "title": "젠슨 황",
-      "description": "대만계 미국인 기업가. 엔비디아의 설립자이자 CEO",
-      "views": 2867,
-      "url": "https://ko.wikipedia.org/wiki/%EC%A0%A0%EC%8A%A8_%ED%99%A9"
+      "title": "한준호 (정치인)",
+      "description": "대한민국의 국회의원(경기 고양시 을)",
+      "views": 2473,
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A4%80%ED%98%B8_(%EC%A0%95%EC%B9%98%EC%9D%B8)"
     },
     {
       "rank": 8,
-      "title": "이찬오 (요리사)",
-      "description": "대한민국의 요리사",
-      "views": 1915,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B0%AC%EC%98%A4_(%EC%9A%94%EB%A6%AC%EC%82%AC)"
+      "title": "김혜자",
+      "description": "대한민국의 배우",
+      "views": 2299,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%9C%EC%9E%90"
     },
     {
       "rank": 9,
-      "title": "우지원",
-      "description": "대한민국의 전 농구선수, 방송인",
-      "views": 1811,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%A7%80%EC%9B%90"
+      "title": "김해숙",
+      "description": "대한민국의 배우",
+      "views": 2278,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%88%99"
     },
     {
       "rank": 10,
-      "title": "이용철 (법조인)",
-      "description": "",
-      "views": 1810,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9A%A9%EC%B2%A0_(%EB%B2%95%EC%A1%B0%EC%9D%B8)"
+      "title": "문무왕",
+      "description": "신라 제30대 국왕 (626–681)",
+      "views": 1895,
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4%EC%99%95"
     }
   ],
   "image": {
-    "title": "File:Male wild turkey (Meleagris gallopavo) strutting.jpg",
-    "description": "",
-    "artist": "Frank Schulenburg",
-    "license": "CC BY-SA 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg/960px-Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Liquid Crystal Phase Transition.jpg",
+    "description": "Magnified 100 times, a drop of liquid crystal was dispensed onto a glass plate and a cover slip placed on top. The liquid crystal spreads out into a uniform film under the weight of the cover slip. The image was captured using a microscope configured for crossed polarised light. The colours come about because liquid crystal is birefringent - it changes the polarisation state of the plane-polarised light passing through it. Now, the sort of labyrinthine pattern is caused by a phase transition. The liquid crystal sample is placed on a heat stage and at a particular temperature called the phase transition temperature, the liquid crystal changes from an opaque state to a transparent state, this is the transition front. The image width is about 2mm.",
+    "artist": "KarlGaff",
+    "license": "CC BY 4.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Liquid_Crystal_Phase_Transition.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Liquid_Crystal_Phase_Transition.jpg/960px-Liquid_Crystal_Phase_Transition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 17일, 대한민국 태안군 근흥면 서격열비도 인근에서 해광호 침몰 사고가 발생하였다.",
