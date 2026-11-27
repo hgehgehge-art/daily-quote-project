@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-27",
-  "fetched_at": "2026-11-27T08:37:06+09:00",
-  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/27",
+  "date": "2026-11-28",
+  "fetched_at": "2026-11-28T08:18:30+09:00",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/ko/featured/2026/11/28",
   "attribution": "위키백과(ko.wikipedia.org) · 텍스트 CC BY-SA 4.0 · 사진은 image.license 참고",
-  "mostread_date": "2026-11-25",
+  "mostread_date": "2026-11-26",
   "mostread": [
     {
       "rank": 1,
       "title": "문화방송",
       "description": "대한민국의 지상파 방송사",
-      "views": 14514,
+      "views": 14491,
       "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
     },
     {
       "rank": 2,
       "title": "한국방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 9834,
+      "views": 9222,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 3,
       "title": "한국교육방송공사",
       "description": "대한민국의 지상파 방송사",
-      "views": 6317,
+      "views": 5671,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC"
     },
     {
       "rank": 4,
-      "title": "강금실",
-      "description": "대한민국의 법조인",
-      "views": 3718,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B8%88%EC%8B%A4"
-    },
-    {
-      "rank": 5,
-      "title": "이연향",
-      "description": "",
-      "views": 3129,
-      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%97%B0%ED%96%A5"
-    },
-    {
-      "rank": 6,
-      "title": "안성기",
-      "description": "대한민국의 배우 (1950–2026)",
-      "views": 3047,
-      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%84%B1%EA%B8%B0"
-    },
-    {
-      "rank": 7,
       "title": "한준호 (정치인)",
       "description": "대한민국의 국회의원(경기 고양시 을)",
-      "views": 2473,
+      "views": 5282,
       "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A4%80%ED%98%B8_(%EC%A0%95%EC%B9%98%EC%9D%B8)"
     },
     {
+      "rank": 5,
+      "title": "강금실",
+      "description": "대한민국의 법조인",
+      "views": 4678,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B8%88%EC%8B%A4"
+    },
+    {
+      "rank": 6,
+      "title": "욕망의 덫",
+      "description": "",
+      "views": 1583,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9A%95%EB%A7%9D%EC%9D%98_%EB%8D%AB"
+    },
+    {
+      "rank": 7,
+      "title": "서영교",
+      "description": "대한민국의 정치인",
+      "views": 1542,
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%98%81%EA%B5%90"
+    },
+    {
       "rank": 8,
-      "title": "김혜자",
-      "description": "대한민국의 배우",
-      "views": 2299,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%9C%EC%9E%90"
+      "title": "강유정 (1975년)",
+      "description": "대한민국의 평론가 겸 이재명 대통령 대변인",
+      "views": 1400,
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%9C%A0%EC%A0%95_(1975%EB%85%84)"
     },
     {
       "rank": 9,
-      "title": "김해숙",
-      "description": "대한민국의 배우",
-      "views": 2278,
-      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%88%99"
+      "title": "이연향",
+      "description": "",
+      "views": 1371,
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%97%B0%ED%96%A5"
     },
     {
       "rank": 10,
-      "title": "문무왕",
-      "description": "신라 제30대 국왕 (626–681)",
-      "views": 1895,
-      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EB%AC%B4%EC%99%95"
+      "title": "신민아",
+      "description": "대한민국의 배우, 모델",
+      "views": 1351,
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%AF%BC%EC%95%84"
     }
   ],
   "image": {
-    "title": "File:Liquid Crystal Phase Transition.jpg",
-    "description": "Magnified 100 times, a drop of liquid crystal was dispensed onto a glass plate and a cover slip placed on top. The liquid crystal spreads out into a uniform film under the weight of the cover slip. The image was captured using a microscope configured for crossed polarised light. The colours come about because liquid crystal is birefringent - it changes the polarisation state of the plane-polarised light passing through it. Now, the sort of labyrinthine pattern is caused by a phase transition. The liquid crystal sample is placed on a heat stage and at a particular temperature called the phase transition temperature, the liquid crystal changes from an opaque state to a transparent state, this is the transition front. The image width is about 2mm.",
-    "artist": "KarlGaff",
-    "license": "CC BY 4.0",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Liquid_Crystal_Phase_Transition.jpg",
-    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Liquid_Crystal_Phase_Transition.jpg/960px-Liquid_Crystal_Phase_Transition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "title": "File:Lower Manhattan from Jersey City November 2014 panorama 3.jpg",
+    "description": "Four-segment panorama of Lower Manhattan, New York City, as viewed from Exchange Place, Jersey City, New Jersey",
+    "artist": "King of Hearts",
+    "license": "CC BY-SA 3.0",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg/960px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "news": [
     "11월 17일, 대한민국 태안군 근흥면 서격열비도 인근에서 해광호 침몰 사고가 발생하였다.",
